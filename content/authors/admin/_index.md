@@ -1,13 +1,7 @@
 ---
 avatar_filename: avatar.jpg
 bio: My research interests include applied mathematics.
-interests:
-  - Applied Mathematics
-  - Theoretical Inflationary Cosmology
-  - Applied ML
-  - Optimisation
-  - Inverse problems
-  - geometric deep learning and physics informed machine learning.
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
