@@ -1,5 +1,5 @@
 ---
-avatar_filename: signal-2022-06-15-134021-1-.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include applied mathematics.
 interests:
   - Applied Mathematics
@@ -37,10 +37,10 @@ education:
   courses:
     - course: PhD in Mathematics of Information
       institution: University of Cambridge
-      year: ""
+      year: 2022
     - course: BA/MMath in Mathematics
       institution: University of Cambridge
-      year: ""
+      year: 2018
 superuser: true
 status:
   icon: ☕️
@@ -51,6 +51,7 @@ title: Zakhar Shumaylov
 first_name: Alice
 email: ""
 ---
+I am a PhD student under supervision of Professor Carola Schönlieb at the [Cambridge Image Analysis Group](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) within DAMTP and a member of the [Cantab Capital Institute for the Mathematics of Information](https://www.ccimi.maths.cam.ac.uk/).
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am interested in research in a wide variety of areas of applied mathematics, ranging from theoretical inflationary cosmology to applied machine learning, optimisation and inverse problems. My current research focuses on the areas of geometric deep learning and physics informed machine learning.
 {style="text-align: justify;"}
