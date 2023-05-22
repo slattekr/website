@@ -5,7 +5,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:zs334@cam.ac.uk 
+    link: mailto:zs334@cam.ac.uk
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Zakobian
@@ -47,5 +47,5 @@ email: ""
 ---
 I am a PhD student under supervision of Professor Carola Schönlieb at the [Cambridge Image Analysis Group](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) within DAMTP and a member of the [Cantab Capital Institute for the Mathematics of Information](https://www.ccimi.maths.cam.ac.uk/).
 
-I am interested in research in a wide variety of areas of applied mathematics, ranging from theoretical inflationary cosmology to applied machine learning, optimisation and inverse problems. My current research focuses on the areas of geometric deep learning and physics informed machine learning.
+I am interested in research in a wide variety of areas of applied mathematics, ranging from inverse problems, tp applied machine learning, optimisation, inverse problems, theoretical inflationary cosmology to. My current research focuses on the areas of geometric deep learning and physics informed machine learning.
 {style="text-align: justify;"}
