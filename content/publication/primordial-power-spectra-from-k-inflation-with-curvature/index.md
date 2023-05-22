@@ -24,11 +24,13 @@ abstract: We investigate the primordial power spectra for general kinetic
 draft: false
 featured: false
 tags:
-  - kinflation
-  - analyticalapproximation
-  - inflation
-  - curveduniverse
-  - primordial power spectra
+  - k-inflation
+  - Analytical approximation
+  - Inflation
+  - Curved cosmology
+  - Power spectra
+  - Sound speed
+  - Cosmology
 projects:
   - cosmology
 image:
