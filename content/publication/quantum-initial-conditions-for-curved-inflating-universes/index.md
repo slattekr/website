@@ -22,14 +22,14 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: Physical Review D
+publication: ""
 featured: false
 date: 2022-12-31T16:02:38.971Z
 url_slides: ""
 title: Quantum Initial Conditions for Curved Inflating Universes
 tags:
   - kinflation
-  - analyticalapproximation
+  - ""
   - inflation
   - curveduniverse
   - primordial power spectra
@@ -40,5 +40,5 @@ image:
   focal_point: Smart
   preview_only: false
 url_code: https://github.com/Zakobian/CMB_cs_plots
-doi: https://doi.org/10.1103/PhysRevD.105.123532
+doi: https://doi.org/10.48550/arXiv.2211.17248
 ---
