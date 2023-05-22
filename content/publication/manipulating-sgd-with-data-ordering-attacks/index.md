@@ -28,6 +28,19 @@ abstract: "Machine learning is vulnerable to a wide variety of attacks. It is
   adversary can disrupt model training and even introduce backdoors. "
 draft: false
 featured: false
+url_pdf: https://proceedings.neurips.cc/paper/2021/file/959ab9a0695c467e7caf75431a872e5c-Paper.pdf
+#url_dataset: "#"
+#url_project: ""
+#publication_short: ""
+#url_source: "#"
+#url_video: "#"
+publication: ""
+url_slides: ""
+#links:
+#  - name: My Code
+#    url: https://github.com/Zakobian/CT_framework_
+#url_poster: "#"
+url_code: https://github.com/iliaishacked/sgd_datareorder
 image:
   filename: https://d3i71xaburhd42.cloudfront.net/2970f2c2c928ba8f8ce55ddd312b463869e75c84/3-Figure1-1.png
   focal_point: Smart
