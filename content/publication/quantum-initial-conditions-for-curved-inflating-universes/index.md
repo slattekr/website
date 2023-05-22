@@ -35,6 +35,7 @@ tags:
   - Quantum initial conditions
   - Change of variables
   - Renormalised stress-energy tensor
+  - Cosmology
 projects:
   - cosmology
 image:
