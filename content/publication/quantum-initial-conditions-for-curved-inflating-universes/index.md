@@ -9,7 +9,7 @@ abstract: We discuss the challenges of motivating, constructing, and quantising
   angular scales, as well as theoretical implications for quantisation
   procedures in curved cosmologies filled with a scalar field.
 draft: false
-url_pdf: https://arxiv.org/abs/2112.07547
+url_pdf: https://arxiv.org/pdf/2211.17248.pdf
 publication_types:
   - "3"
 authors:
@@ -28,17 +28,26 @@ date: 2022-12-31T16:02:38.971Z
 url_slides: ""
 title: Quantum Initial Conditions for Curved Inflating Universes
 tags:
-  - kinflation
-  - ""
-  - inflation
-  - curveduniverse
-  - primordial power spectra
+  - k-inflation
+  - Inflation
+  - Curved cosmology
+  - Power spectra
+  - Quantum initial conditions
+  - Change of variables
+  - Renormalised stress-energy tensor
 projects:
   - cosmology
 image:
   filename: null
   focal_point: Smart
   preview_only: false
-url_code: https://github.com/Zakobian/CMB_cs_plots
+#url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
+
 doi: https://doi.org/10.48550/arXiv.2211.17248
 ---
