@@ -36,11 +36,11 @@ url_pdf: https://doi.org/10.48550/arXiv.2008.02839
 #url_video: "#"
 publication: ""
 url_slides: ""
-#links:
-#  - name: Custom Link
-#    url: http://example.org
+links:
+  - name: My Code
+    url: https://github.com/Zakobian/CT_framework_
 #url_poster: "#"
-#url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: https://github.com/Subhadip-1/data_driven_convex_regularization
 featured: false
 date: 2020-07-31T11:56:00.000Z
 title: Learned convex regularizers for inverse problems
@@ -50,7 +50,7 @@ tags:
   - Data-driven regularization
   - Adversarial learning
 projects:
-  - internal-project
+  - ML_in_inverseproblems
 image:
   caption: ""
   focal_point: Smart
