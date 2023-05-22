@@ -54,10 +54,10 @@ projects:
   - internal-project
 image:
   caption: ""
-  focal_point: ""
+  focal_point: Smart
   preview_only: false
   filename: https://media.arxiv-vanity.com/render-output/5892693/figures/acr_diagram_test1.png
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: https://doi.org/10.48550/arXiv.2008.02839
