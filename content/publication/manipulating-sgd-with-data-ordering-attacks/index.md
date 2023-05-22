@@ -34,7 +34,6 @@ url_pdf: https://proceedings.neurips.cc/paper/2021/file/959ab9a0695c467e7caf7543
 #publication_short: ""
 #url_source: "#"
 #url_video: "#"
-publication: ""
 url_slides: ""
 #links:
 #  - name: My Code
