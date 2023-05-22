@@ -1,65 +1,66 @@
 ---
-title: "An example preprint / working paper"
-authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
-
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
-
-links:
-- name: Custom Link
-  url: http://example.org
+abstract: "We consider the variational reconstruction framework for inverse
+  problems and propose to learn a data-adaptive input-convex neural network
+  (ICNN) as the regularization functional. The ICNN-based convex regularizer is
+  trained adversarially to discern ground-truth images from unregularized
+  reconstructions. Convexity of the regularizer is desirable since (i) one can
+  establish analytical convergence guarantees for the corresponding variational
+  reconstruction problem and (ii) devise efficient and provable algorithms for
+  reconstruction. In particular, we show that the optimal solution to the
+  variational problem converges to the ground-truth if the penalty parameter
+  decays sub-linearly with respect to the norm of the noise. Further, we prove
+  the existence of a sub-gradient-based algorithm that leads to a monotonically
+  decreasing error in the parameter space with iterations. To demonstrate the
+  performance of our approach for solving inverse problems, we consider the
+  tasks of deblurring natural images and reconstructing images in computed
+  tomography (CT), and show that the proposed convex regularizer is at least
+  competitive with and sometimes superior to state-of-the-art data-driven
+  techniques for inverse problems. "
+slides: example
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+publication_types:
+  - "3"
+authors:
+  - Subhadip Mukherjee
+  - Sören Dittmer
+  - admin
+  - Sebastian Lunz
+  - Ozan Öktem
+  - Carola-Bibiane Schönlieb
+summary: We learn the regularizer from data and make sure that it is convex,
+  which gives guarrantees on convergence of variational optimisation.
+url_dataset: "#"
+url_project: ""
+publication_short: ""
+url_source: "#"
+url_video: "#"
+publication: ""
+featured: false
+date: 2023-05-22T11:56:02.657Z
+url_slides: ""
+title: Learned convex regularizers for inverse problems
+tags:
+  - ""
+  - convex
+  - optimisation
+  - Inverse problems
+  - data-driven
+  - regularization
+  - adversarial learning
+links:
+  - name: Custom Link
+    url: http://example.org
+projects:
+  - internal-project
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: https://media.arxiv-vanity.com/render-output/5892693/figures/acr_diagram_test1.png
+publishDate: 2017-01-01T00:00:00Z
+url_poster: "#"
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+doi: https://doi.org/10.48550/arXiv.2008.02839
 ---
 
 {{% callout note %}}
