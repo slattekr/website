@@ -35,5 +35,17 @@ image:
   filename: null
   focal_point: Smart
   preview_only: false
+url_pdf: https://arxiv.org/abs/2112.07547
+#url_dataset: "#"
+#url_project: ""
+#publication_short: ""
+#url_source: "#"
+#url_video: "#"
+url_slides: ""
+#links:
+#  - name: My Code
+#    url: https://github.com/Zakobian/CT_framework_
+#url_poster: "#"
+url_code: https://github.com/Zakobian/CMB_cs_plots
 date: 2022-01-01T14:35:27.135Z
 ---
