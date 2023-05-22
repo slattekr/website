@@ -11,7 +11,7 @@ abstract: We investigate the primordial power spectra for general kinetic
   inflation models that support a period of kinetic dominance in the case of
   curved universes. We present derivations of the Mukhanov-Sasaki equations with
   a nonstandard scalar kinetic Lagrangian which manifests itself through the
-  inflationary sound speed c<sup>2<\sup>s. We extend the analytical
+  inflationary sound speed c<sup>2</sup><sub>s</sub>. We extend the analytical
   approximations exploited in Contaldi et al [1] and Thavanesan et al [2] to
   general kinetic Lagrangians and show the effect of k-inflation on the
   primordial power spectra for models with curvature. In particular, the
