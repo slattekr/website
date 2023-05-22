@@ -203,7 +203,7 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-  - block: contact
+<!--   - block: contact
     id: contact
     content:
       title: Contact
@@ -249,5 +249,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '2'
+      columns: '2' -->
 ---
