@@ -16,8 +16,6 @@ abstract: "We consider the variational reconstruction framework for inverse
   tomography (CT), and show that the proposed convex regularizer is at least
   competitive with and sometimes superior to state-of-the-art data-driven
   techniques for inverse problems. "
-slides: example
-url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "3"
 authors:
@@ -29,27 +27,28 @@ authors:
   - Carola-Bibiane Schönlieb
 summary: We learn the regularizer from data and make sure that it is convex,
   which gives guarrantees on convergence of variational optimisation.
-url_dataset: "#"
-url_project: ""
-publication_short: ""
-url_source: "#"
-url_video: "#"
+slides: example
+url_pdf: https://doi.org/10.48550/arXiv.2008.02839
+#url_dataset: "#"
+#url_project: ""
+#publication_short: ""
+#url_source: "#"
+#url_video: "#"
 publication: ""
+url_slides: ""
+#links:
+#  - name: Custom Link
+#    url: http://example.org
+#url_poster: "#"
+#url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 featured: false
 date: 2020-07-31T11:56:00.000Z
-url_slides: ""
 title: Learned convex regularizers for inverse problems
 tags:
-  - ""
-  - convex
-  - optimisation
+  - Convex optimisation
   - Inverse problems
-  - data-driven
-  - regularization
-  - adversarial learning
-links:
-  - name: Custom Link
-    url: http://example.org
+  - Data-driven regularization
+  - Adversarial learning
 projects:
   - internal-project
 image:
@@ -58,13 +57,11 @@ image:
   preview_only: false
   filename: https://media.arxiv-vanity.com/render-output/5892693/figures/acr_diagram_test1.png
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: "#"
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: https://doi.org/10.48550/arXiv.2008.02839
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
