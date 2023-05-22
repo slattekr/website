@@ -10,9 +10,9 @@ main:
 #   - name: Posts (just for now)
 #     url: '#posts'
 #     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
+#   - name: Projects (just for now)
+#     url: '#projects'
+#     weight: 30
 #   - name: Talks
 #     url: '#talks'
 #     weight: 40
