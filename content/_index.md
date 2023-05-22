@@ -176,6 +176,7 @@ sections:
 #      view: card
   - block: collection
     content:
+      id: featured
       title: Recent Publications
       text: |-
         {{% callout note %}}
