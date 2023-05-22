@@ -3,6 +3,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include applied mathematics.
 interests: []
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:zs334@cam.ac.uk 
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Zakobian
