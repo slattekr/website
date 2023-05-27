@@ -38,11 +38,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
 role: Mathematics PhD student at University of Cambridge
 highlight_name: true
 title: Zakhar Shumaylov
-first_name: Alice
 email: ""
 ---
 I am a PhD student under supervision of Professor Carola Schönlieb at the [Cambridge Image Analysis Group](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) within DAMTP and a member of the [Cantab Capital Institute for the Mathematics of Information](https://www.ccimi.maths.cam.ac.uk/).
