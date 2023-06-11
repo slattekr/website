@@ -13,7 +13,7 @@ name = "marys-theme"
 
   # Menu
   menu_primary = "#141514" #background color
-  menu_text = "#DFF3EB" #text color
+  menu_text = "#F30AF0" #text color
   menu_text_active = "#97BBA2"
   menu_title = "#97BBA2"
 
