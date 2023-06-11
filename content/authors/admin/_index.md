@@ -23,7 +23,7 @@ social:
     link: https://www.linkedin.com/in/maryletey/
   - icon: cv
     icon_pack: ai
-    link: uploads/maryletey-resume.pdf
+    link: maryletey-resume.pdf
 organizations:
   - name: University of Cambridge
     url: https://www.damtp.cam.ac.uk/person/zs334
