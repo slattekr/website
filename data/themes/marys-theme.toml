@@ -7,7 +7,7 @@ name = "marys-theme"
 # darker grey 343434
 # lighter grey 7E7E7E
 
-[dark]
+[light]
   # Primary
   primary = "#97BBA2" # highlight text - links, buttons, etc
 
