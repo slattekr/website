@@ -7,21 +7,6 @@ name = "marys-green"
 # darker grey 343434
 # lighter grey 7E7E7E
 
-[light]
-  primary = "#97BBA2" # highlight text - links, buttons, etc
-  
-  # Menu
-  menu_primary = "#141514" #background color
-  menu_text = "#D8EEE6" # text in upper lefthand corner - menu navigation text
-  menu_text_active = "#97BBA2" # text in upper lefthand corner 
-  menu_title = "#97BBA2" # i have no idea
-  
-  # Home sections
-  background = "#E8EEED"
-  home_section_odd = "#E8EEED"
-  home_section_even = "#E8EEED"
-  
-
 [dark]
   # Primary
   primary = "#97BBA2" # highlight text - links, buttons, etc
@@ -38,6 +23,12 @@ name = "marys-green"
   background = "#141514"
   home_section_odd = "#141514"
   home_section_even = "#141514"
+  
+[light]
+  # Home sections
+  background = "#E8EEED"
+  home_section_odd = "#E8EEED"
+  home_section_even = "#E8EEED"
 
 #[dark]
   # Primary
