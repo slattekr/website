@@ -13,9 +13,9 @@ name = "marys-theme"
 
   # Menu
   menu_primary = "#343434" #background color
-  menu_text = "#E9EEEC" #text color
-  menu_text_active = "#BEDBCB"
-  menu_title = "#BEDBCB"
+  menu_text = "#DFF3EB" #text color
+  menu_text_active = "#DFF3EB"
+  menu_title = "#DFF3EB"
 
   # Home sections
   background = "#141514"
