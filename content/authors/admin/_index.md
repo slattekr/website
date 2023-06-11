@@ -25,8 +25,8 @@ social:
     icon_pack: ai
     link: uploads/maryletey-resume-new.pdf
 organizations:
-  - name: University of Cambridge
-    url: https://www.damtp.cam.ac.uk/person/zs334
+  - name: Perimeter Institute
+    url: https://perimeterinstitute.ca/people/mary-letey
 education:
   courses:
     - course: PhD in Applied Mathematics
