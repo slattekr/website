@@ -13,7 +13,7 @@ name = "marys-theme"
   primary = "#CEECDB" #highlight text spearamint
 
   # Menu
-  menu_primary = "#5E5E5E" #background color
+  menu_primary = "#343434" #background color
   menu_text = "#E9EEEC" #text color
   menu_text_active = "#BEDBCB"
   menu_title = "#BEDBCB"
