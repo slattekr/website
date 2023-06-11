@@ -10,7 +10,7 @@ title: Scattering Amplitudes and Colour Ordering
 tags:
   - Physics
 links: []
-image:
+image: ./scatteringamp.png
   caption: ""
   focal_point: Smart
 url_code: ""
