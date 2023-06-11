@@ -1,5 +1,5 @@
 ---
-slides: "scattering.pdf"
+slides: example
 url_pdf: ""
 summary: "blah blah blah this is me rambling about something i don't understand thank you kindly for your attention"
 url_video: ""
@@ -15,4 +15,4 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-This is an example
+CATS!!! wah wah wah meow meow meow
