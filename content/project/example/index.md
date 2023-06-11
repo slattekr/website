@@ -10,9 +10,7 @@ title: Scattering Amplitudes and Colour Ordering
 tags:
   - Physics
 links: []
-image: 
-  caption: ""
-  size: 50x50
+<img src="./featured.jpg" width="300">
 url_code: ""
 ---
 
