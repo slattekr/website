@@ -7,20 +7,6 @@ name = "marys-theme"
 # darker grey 343434
 # lighter grey 7E7E7E
 
-[light]
-  # Primary
-  primary = "#CEECDB" #highlight text spearamint
-
-  # Menu
-  menu_primary = "#343434" #background color
-  menu_text = "#E9EEEC" #text color
-  menu_text_active = "#BEDBCB"
-  menu_title = "#BEDBCB"
-  
-  background = "#343434"
-  #home_section_odd = "rgb(255, 255, 255)"
-  #home_section_even = "rgb(247, 247, 247)"
-
 [dark]
   # Primary
   primary = "#CEECDB" #highlight text spearamint
