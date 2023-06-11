@@ -23,12 +23,6 @@ name = "marys-green"
   background = "#141514"
   home_section_odd = "#141514"
   home_section_even = "#141514"
-  
-[light]
-  # Home sections
-  background = "#E8EEED"
-  home_section_odd = "#E8EEED"
-  home_section_even = "#E8EEED"
 
 #[dark]
   # Primary
