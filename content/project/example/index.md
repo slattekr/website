@@ -1,18 +1,18 @@
 ---
-slides: example
+slides: scattering.pdf
 url_pdf: ""
-summary: ""
+summary: "blah blah blah this is me rambling about something i don't understand thank you kindly for your attention"
 url_video: ""
 date: 2016-04-27T00:00:00Z
 external_link: ""
 url_slides: ""
-title: Inverse Problems
+title: Scattering Amplitudes and Colour Ordering
 tags:
-  - Inverse Problems
+  - Physics
 links: []
 image:
   caption: ""
   focal_point: Smart
 url_code: ""
 ---
-Work on inverse problems
+This is an example
