@@ -12,7 +12,7 @@ tags:
 links: []
 image: 
   caption: ""
-  focal_point: Smart
+  width: 50
 url_code: ""
 ---
 
