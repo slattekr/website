@@ -13,10 +13,10 @@ name = "marys-theme"
   primary = "#CEECDB" #highlight text spearamint
 
   # Menu
-  menu_primary = "#E9EEEC" #text color??
-  menu_text = "#5E5E5E" #background color?
+  menu_primary = "#5E5E5E" #background color
+  menu_text = "#E9EEEC" #text color
   menu_text_active = "#BEDBCB"
-  menu_title = "#E9EEEC"
+  menu_title = "#BEDBCB"
 
   # Home sections
   #home_section_odd = "rgb(255, 255, 255)"
