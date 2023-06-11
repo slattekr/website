@@ -7,7 +7,7 @@
 
 appearance:
   #theme_day: marys-theme
-  theme_night: marys-theme
+  theme_dark: marys-theme
   font: rose
   font_size: S
 
