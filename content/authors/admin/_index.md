@@ -6,12 +6,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:maryletey@fas.harvard.edu
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/maryiletey
     label: Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.ca/citations?user=NGxMzCMAAAAJ&hl=en&oi=ao
