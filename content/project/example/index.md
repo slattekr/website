@@ -1,11 +1,11 @@
 ---
-slides: (./scattering.pdf)
+slides: 
 url_pdf: ""
 summary: "blah blah blah this is me rambling about something i don't understand thank you kindly for your attention"
 url_video: ""
 date: 2023-02
 external_link: ""
-url_slides: ""
+url_slides: ./scattering.pdf
 title: Scattering Amplitudes and Colour Ordering
 tags:
   - Physics
