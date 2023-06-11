@@ -7,10 +7,12 @@ name = "marys-theme"
 # darker grey 343434
 # lighter grey 7E7E7E
 
-[light]
+[dark]
   # Primary
   primary = "#97BBA2" # highlight text - links, buttons, etc
 
+  text_primary = "F605EF"
+  
   # Menu
   menu_primary = "#141514" #background color
   menu_text = "#D8EEE6" # text in upper lefthand corner - menu navigation text
