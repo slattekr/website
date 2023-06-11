@@ -9,13 +9,13 @@ name = "marys-theme"
 
 [dark]
   # Primary
-  primary = "#AFE4BF" #highlight text spearamint
+  primary = "#97BBA2" #highlight text spearamint
 
   # Menu
   menu_primary = "#141514" #background color
   menu_text = "#DFF3EB" #text color
-  menu_text_active = "#AFE4BF"
-  menu_title = "#AFE4BF"
+  menu_text_active = "#97BBA2"
+  menu_title = "#97BBA2"
 
   # Home sections
   background = "#141514"
