@@ -30,13 +30,13 @@ organizations:
 education:
   courses:
     - course: PhD in Applied Mathematics
-      institution: Harvard University, SEAS
+      institution: Harvard University, School of Engineering and Applied Sciences
       year: 2023
     - course: MSc in Theoretical Physics
-      institution: Perimeter Institute
+      institution: Perimeter Institute for Theoretical Physics
       year: 2022
     - course: BA in Mathematics
-      institution: University of Cambridge
+      institution: University of Cambridge, St Johns College
       year: 2018
 superuser: true
 status:
