@@ -61,8 +61,7 @@ locale:
 
 features:
   syntax_highlighter:
-    #theme_light: github-light
-    #theme_dark: marys-theme
+    theme_dark: marys-theme
   math:
     enable: false
   privacy_pack:
