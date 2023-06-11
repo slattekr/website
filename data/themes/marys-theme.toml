@@ -9,10 +9,10 @@ name = "marys-theme"
 
 [dark]
   # Primary
-  primary = "#CEECDB" #highlight text spearamint
+  primary = "#DFF3EB" #highlight text spearamint
 
   # Menu
-  menu_primary = "#343434" #background color
+  menu_primary = "#141514" #background color
   menu_text = "#DFF3EB" #text color
   menu_text_active = "#DFF3EB"
   menu_title = "#DFF3EB"
