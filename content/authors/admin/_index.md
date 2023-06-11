@@ -40,8 +40,8 @@ education:
       year: 2018
 superuser: true
 status:
-  icon: ☕️
-role: Theoretical Physics Master's student at Perimeter Institute
+  icon: 🦦
+role: Master's Student in Theoretical Physics 
 highlight_name: true
 title: Mary Letey
 email: ""
