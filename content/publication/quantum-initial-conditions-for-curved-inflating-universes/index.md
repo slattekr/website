@@ -37,7 +37,7 @@ tags:
   - Renormalised stress-energy tensor
   - Cosmology
 projects:
-  - cosmology
+  - Physics
 image:
   filename: null
   focal_point: Smart
