@@ -9,7 +9,7 @@ appearance:
   #theme_day: marys-theme
   theme_night: marys-theme
   font: mary-serif
-  color: rgba(0,0,0,0.8)
+  color: rgba(246, 5, 239, 1)
   font_size: S
 
 # SEO
