@@ -5,45 +5,46 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:zs334@cam.ac.uk
+    link: mailto:maryletey@fas.harvard.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/Zakobian
+    link: https://twitter.com/maryiletey
     label: Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=EKV1lrAAAAAJ&hl=en&oi=sra
+    link: https://scholar.google.ca/citations?user=NGxMzCMAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/Zakobian
+    link: https://github.com/mletey
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/zakshumaylov/
+    link: https://www.linkedin.com/in/maryletey/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/maryletey-resume.pdf
 organizations:
   - name: University of Cambridge
     url: https://www.damtp.cam.ac.uk/person/zs334
 education:
   courses:
-    - course: PhD in Mathematics of Information
-      institution: University of Cambridge
+    - course: PhD in Applied Mathematics
+      institution: Harvard University, SEAS
+      year: 2023
+    - course: MSc in Theoretical Physics
+      institution: Perimeter Institute
       year: 2022
-    - course: BA/MMath in Mathematics
+    - course: BA in Mathematics
       institution: University of Cambridge
       year: 2018
 superuser: true
 status:
   icon: ☕️
-role: Mathematics PhD student at University of Cambridge
+role: Theoretical Physics Master's student at Perimeter Institute
 highlight_name: true
-title: Zakhar Shumaylov
+title: Mary Letey
 email: ""
 ---
-I am a PhD student under supervision of Professor Carola Schönlieb at the [Cambridge Image Analysis Group](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) within DAMTP and a member of the [Cantab Capital Institute for the Mathematics of Information](https://www.ccimi.maths.cam.ac.uk/).
-
-I am interested in research in a wide variety of areas of applied mathematics, ranging from inverse problems to applied machine learning, optimisation, inverse problems, theoretical inflationary cosmology. My current research focuses on the areas of geometric deep learning and physics informed machine learning.
+I am a Master's student in theoretical physics at [Perimeter Institute](https://perimeterinstitute.ca/people/mary-letey) and an incoming Harvard PhD candidate in applied mathematics and theoretical machine learning at the [Pehlevan Lab](https://pehlevan.seas.harvard.edu).
 {style="text-align: justify;"}
