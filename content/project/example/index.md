@@ -1,5 +1,5 @@
 ---
-slides: scattering.pdf
+slides: "scattering.pdf"
 url_pdf: ""
 summary: "blah blah blah this is me rambling about something i don't understand thank you kindly for your attention"
 url_video: ""
