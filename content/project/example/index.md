@@ -13,7 +13,7 @@ links: []
 image: 
   caption: ""
   width: 50
-  height 50
+  height: 50
 url_code: ""
 ---
 
