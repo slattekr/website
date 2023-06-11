@@ -9,7 +9,7 @@ name = "marys-theme"
 
 [dark]
   # Primary
-  primary = "#F605EF" #highlight text spearamint
+  primary = "#97BBA2" # highlight text - links, buttons, etc
 
   # Menu
   menu_primary = "#141514" #background color
