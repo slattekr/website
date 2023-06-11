@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  #theme_day: marys-theme
-  theme_night: marys-theme
+  theme_day: marys-theme
+  #theme_night: marys-theme
   font: mary-serif
   font_size: S
 
@@ -62,7 +62,7 @@ locale:
 features:
   syntax_highlighter:
     #theme_light: github-light
-    theme_night: marys-theme
+    #theme_night: marys-theme
   math:
     enable: false
   privacy_pack:
