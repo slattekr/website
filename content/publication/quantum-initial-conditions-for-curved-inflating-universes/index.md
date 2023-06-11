@@ -13,8 +13,8 @@ url_pdf: https://arxiv.org/pdf/2211.17248.pdf
 publication_types:
   - "3"
 authors:
-  - Mary I Letey
   - admin
+  - Zakhar Shumaylov
   - Fruzsina J Agocs
   - Will J Handley
   - Michael P Hobson
