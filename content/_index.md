@@ -131,6 +131,19 @@ sections:
 #      view: compact
 #      columns: '2'
 
+  - block: collection
+    id: featured
+    content:
+      title: Recent Publications
+      count: 3
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+      
   - block: portfolio
     id: projects
     content:
@@ -148,11 +161,11 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Cosmology
-          tag: Cosmology
-        - name: Inverse problems
-          tag: Inverse problems
-        - name: ML
+        - name: Physics
+          tag: Physics
+        - name: Mathematics
+          tag: Maths
+        - name: Machine Learning
           tag: ML
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -160,6 +173,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+    
 #  - block: markdown
 #    content:
 #      title: Gallery
@@ -179,18 +193,7 @@ sections:
 #    design:
 #      columns: '2'
 #      view: card
-  - block: collection
-    id: featured
-    content:
-      title: Recent Publications
-      count: 3
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+      
 #  - block: collection
 #    id: talks
 #    content:
