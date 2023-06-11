@@ -10,5 +10,5 @@ body_font = "Lora"
 nav_font = "Lora"
 mono_font = "Cutive Mono"
 
-font_color = rgba(246, 5, 239, 1)
+font_color = "#F605EF"
 
