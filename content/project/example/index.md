@@ -9,7 +9,7 @@ url_slides: ""
 title: Scattering Amplitudes and Colour Ordering
 tags:
   - Physics
-links: []
+links: uploads/scattering.pdf
 image:
   caption: ""
   focal_point: Smart
