@@ -11,7 +11,7 @@ name = "marys-theme"
   # Primary
   primary = "#97BBA2" # highlight text - links, buttons, etc
 
-  primary_text = "F605EF"
+  text = "F605EF"
   
   # Menu
   menu_primary = "#141514" #background color
