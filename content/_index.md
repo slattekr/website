@@ -170,7 +170,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: title
+      view: summary
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
     
