@@ -35,7 +35,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Mary Letey. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -60,8 +60,8 @@ locale:
 # Site features
 
 features:
-  syntax_highlighter:
-    theme_dark: marys-theme
+  #syntax_highlighter:
+    #theme_dark: marys-theme
   math:
     enable: false
   privacy_pack:
