@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: marys-theme
+  #theme_day: marys-theme
   theme_night: marys-green
   font: mary-serif
   font_color: rgba(246, 5, 239, 1)
@@ -32,11 +32,11 @@ appearance:
 
 header:
   navbar:
-    enable: true
+    enable: false
     align: l
     show_logo: false
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: false
     highlight_active_link: true
 
