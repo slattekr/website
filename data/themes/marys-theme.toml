@@ -18,9 +18,9 @@ name = "marys-theme"
   menu_title = "#BEDBCB"
 
   # Home sections
-  background = "#343434"
-  home_section_odd = "#343434"
-  home_section_even = "#343434"
+  background = "#141514"
+  home_section_odd = "#141514"
+  home_section_even = "#141514"
 
 #[dark]
   # Primary
