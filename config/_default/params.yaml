@@ -52,8 +52,8 @@ locale:
 
 features:
   syntax_highlighter:
-    #theme_light: github-light
-    #theme_night: marys-theme
+    theme_light: github-light
+    theme_night: marys-theme
   math:
     enable: false
   privacy_pack:
@@ -83,7 +83,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: true
+      show_logo: false
   map:
     provider: ''
     api_key: ''
