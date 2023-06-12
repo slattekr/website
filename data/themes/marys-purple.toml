@@ -5,15 +5,15 @@ name = "marys-purple"
 
 [dark]
   # Primary
-  primary = "#AAA0D1" # highlight text - links, buttons, etc
+  primary = "#9F93CC" # highlight text - links, buttons, etc
 
   #text_primary = "F605EF"
   
   # Menu
-  menu_primary = "#AAA0D1" #background color
+  menu_primary = "#141514" #background color
   menu_text = "#fff" # text in upper lefthand corner - menu navigation text
-  menu_text_active = "#AAA0D1" # text in upper lefthand corner 
-  menu_title = "#AAA0D1" # i have no idea
+  menu_text_active = "#9F93CC" # text in upper lefthand corner 
+  menu_title = "#9F93CC" # i have no idea
 
   # Home sections
   background = "#141514"
