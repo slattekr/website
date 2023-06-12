@@ -2,13 +2,13 @@
 name = "mary-serif"
 
 # Optional Google font URL
-google_fonts = "family=Lato:wght@400;700&family=Merriweather&family=Roboto+Mono"
+google_fonts = "family=B612+Mono&family=B612:wght@400;700&family=Jura:wght@400;700"
 
 # Font families
-heading_font = "Lato"
-body_font = "Merriweather"
-nav_font = "Lato"
-mono_font = "Roboto Mono"
+heading_font = "Jura"
+body_font = "B612"
+nav_font = "Jura"
+mono_font = "B612 Mono"
 
 #color = "#F605EF"
 
