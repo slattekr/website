@@ -10,7 +10,7 @@ theme:
   favicon: logo.png
   
 assets:
-  favicon: ./otterlogo.png
+  favicon: uploads/otterlogo.png
 
 ############################
 ## LANGUAGE
