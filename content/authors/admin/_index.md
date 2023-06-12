@@ -38,7 +38,7 @@ education:
       institution: University of Cambridge, St Johns College
       year: 2018
 superuser: true
-status: 🦦
+status: hi
   icon: 🦦
 role: Master's Student in Theoretical Physics 
 highlight_name: true
