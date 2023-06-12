@@ -15,12 +15,12 @@ name = "marys-green"
   
   # Menu
   menu_primary = "#141514" #background color
-  menu_text = "#D8EEE6" # text in upper lefthand corner - menu navigation text
+  menu_text = "#fff" # text in upper lefthand corner - menu navigation text
   menu_text_active = "#97BBA2" # text in upper lefthand corner 
   menu_title = "#97BBA2" # i have no idea
 
   # Home sections
-  background = "#141514"
+  background = "#97BBA2"
   home_section_odd = "#141514"
   home_section_even = "#141514"
 
