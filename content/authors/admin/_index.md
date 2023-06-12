@@ -20,8 +20,8 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.ca/citations?user=NGxMzCMAAAAJ&hl=en&oi=ao
-  - icon: cv
-    icon_pack: ai
+  - icon: book-open-cover
+    icon_pack: fal
     link: uploads/maryletey-resume-new.pdf
 organizations:
   - name: Perimeter Institute
