@@ -1,6 +1,7 @@
 ---
 avatar_filename: avatar.jpg
-interests:   
+interests: []
+item:   
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/maryletey/
