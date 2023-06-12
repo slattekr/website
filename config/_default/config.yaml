@@ -6,6 +6,9 @@
 title: Mary
 baseURL: 'https://example.com/' # Website URL
 
+theme:
+  logo: logo.png
+
 ############################
 ## LANGUAGE
 ############################
