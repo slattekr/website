@@ -66,8 +66,8 @@ features:
   avatar:
     gravatar: false
     shape: square
-  logo: ./otterlogo.png
-  favicon: ./otterlogo.png
+  logo: uploads/otterlogo.png
+  favicon: uploads/otterlogo.png
   comment:
     provider: ''
     disqus:
