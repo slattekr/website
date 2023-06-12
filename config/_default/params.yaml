@@ -38,8 +38,6 @@ header:
 footer:
   copyright:
     notice: '© {year} Mary Letey'
-  icon: otter
-  icon_pack: fas
 
 # Localization
 
@@ -53,7 +51,7 @@ locale:
 features:
   syntax_highlighter:
     theme_light: github-light
-    theme_night: marys-theme
+    theme_dark: dracula
   math:
     enable: false
   privacy_pack:
