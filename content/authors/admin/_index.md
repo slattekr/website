@@ -20,7 +20,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=NGxMzCMAAAAJ&hl=en&oi=ao
-  - icon: :otter:
+  - icon: 🦦
     icon_pack: emoji
     link: uploads/maryletey-resume-new.pdf
 organizations:
