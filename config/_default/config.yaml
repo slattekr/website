@@ -4,7 +4,6 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Mary
-#favicon: ./favicon.ico
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -31,11 +30,6 @@ module:
 ## ADVANCED
 ############################
 
-params: 
-  favicon: ./favicon.ico
-
-assets:
-  favicon: /assets/favicon.ico
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
