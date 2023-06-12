@@ -8,6 +8,9 @@ baseURL: 'https://example.com/' # Website URL
 
 theme:
   favicon: logo.png
+  
+assets:
+  favicon: ./otterlogo.png
 
 ############################
 ## LANGUAGE
