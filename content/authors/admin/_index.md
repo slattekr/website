@@ -20,8 +20,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=NGxMzCMAAAAJ&hl=en&oi=ao
-  - icon: cv
-    icon_pack: ai
+  - icon: :otter:
+    icon_pack: emoji
     link: uploads/maryletey-resume-new.pdf
 organizations:
   - name: Perimeter Institute
