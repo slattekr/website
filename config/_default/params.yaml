@@ -68,7 +68,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: heart
+    shape: square
   comment:
     provider: ''
     disqus:
