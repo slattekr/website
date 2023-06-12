@@ -13,9 +13,9 @@ appearance:
 
 # SEO
 
- #marketing:
-   #seo:
-    # site_type: Person
+marketing:
+  seo:
+    site_type: Person
      #local_business_type: 'Mary Letey'
     # org_name: 'Mary Letey'
     # description: 'Mary Letey Homepage Physics Mathematics Machine Learning Mary Letey'
