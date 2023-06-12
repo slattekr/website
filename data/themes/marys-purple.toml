@@ -1,23 +1,19 @@
 # Theme metadata
-name = "marys-green"
+name = "marys-purple"
 
 # nice lilac D9CEEC
-# nice spearamint CEECDB
-# grey 5E5E5E
-# darker grey 343434
-# lighter grey 7E7E7E
 
 [dark]
   # Primary
-  primary = "#97BBA2" # highlight text - links, buttons, etc
+  primary = "#AAA0D1" # highlight text - links, buttons, etc
 
   #text_primary = "F605EF"
   
   # Menu
-  menu_primary = "#141514" #background color
-  menu_text = "#D8EEE6" # text in upper lefthand corner - menu navigation text
-  menu_text_active = "#97BBA2" # text in upper lefthand corner 
-  menu_title = "#97BBA2" # i have no idea
+  menu_primary = "#AAA0D1" #background color
+  menu_text = "#fff" # text in upper lefthand corner - menu navigation text
+  menu_text_active = "#AAA0D1" # text in upper lefthand corner 
+  menu_title = "#AAA0D1" # i have no idea
 
   # Home sections
   background = "#141514"
