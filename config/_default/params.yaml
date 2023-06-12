@@ -24,6 +24,9 @@ appearance:
      
 # Site header
 
+assets:
+  favicon: /assets/favicon.ico
+  
 header:
   navbar:
     enable: true
