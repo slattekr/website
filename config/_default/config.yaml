@@ -31,6 +31,9 @@ module:
 ## ADVANCED
 ############################
 
+params: 
+  favicon: ./favicon.ico
+
 assets:
   favicon: /assets/favicon.ico
 enableGitInfo: false
