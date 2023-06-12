@@ -37,7 +37,7 @@ education:
     - course: BA in Mathematics
       institution: University of Cambridge, St Johns College
       year: 2018
-superuser: true
+superuser: false
 status:
   icon: 🦦
 role: Master's Student in Theoretical Physics 
