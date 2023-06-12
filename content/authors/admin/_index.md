@@ -16,7 +16,7 @@ social:
 organizations:
   - name: Perimeter Institute
     url: https://perimeterinstitute.ca/people/mary-letey
-social: 
+contact: 
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/maryletey/
