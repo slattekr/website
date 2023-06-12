@@ -1,16 +1,6 @@
 ---
 avatar_filename: avatar.jpg
 interests: []
-item:   
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/maryletey/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/mletey
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/maryiletey
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,9 +10,20 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=NGxMzCMAAAAJ&hl=en&oi=ao
+  - icon: cv
+    icon_pack: ai
+    link: uploads/maryletey-resume-new.pdf
   - icon: 🦦
     icon_pack: emoji
-    link: uploads/maryletey-resume-new.pdf
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/maryletey/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/mletey
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/maryiletey
 organizations:
   - name: Perimeter Institute
     url: https://perimeterinstitute.ca/people/mary-letey
