@@ -16,7 +16,7 @@ social:
 organizations:
   - name: Perimeter Institute
     url: https://perimeterinstitute.ca/people/mary-letey
-contact: 
+buttons: 
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/maryletey/
@@ -46,9 +46,7 @@ highlight_name: true
 title: Mary Letey
 first_name: Mary
 last_name: Letey
-bio: []
 email: ""
 ---
-# Hello There! #
 I am currently a Master's student in theoretical physics at [Perimeter Institute](https://perimeterinstitute.ca/people/mary-letey) and an incoming Harvard PhD candidate in theoretical machine learning at the [Pehlevan Lab](https://pehlevan.seas.harvard.edu).
 {style="text-align: justify;"}
