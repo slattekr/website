@@ -17,11 +17,11 @@ social:
     link: mailto:maryletey@fas.harvard.edu
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.ca/citations?user=NGxMzCMAAAAJ&hl=en&oi=ao
   - icon: book-open-cover
-    icon_pack: fal
+    icon_pack: fab
     link: uploads/maryletey-resume-new.pdf
 organizations:
   - name: Perimeter Institute
