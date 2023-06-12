@@ -20,9 +20,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=NGxMzCMAAAAJ&hl=en&oi=ao
-  - icon: arxiv
-    icon_pack: ai
-    link: https://arxiv.org/search/?query=Letey%2C+M&searchtype=author&abstracts=show&order=-announced_date_first&size=50
   - icon: cv
     icon_pack: ai
     link: uploads/maryletey-resume-new.pdf
