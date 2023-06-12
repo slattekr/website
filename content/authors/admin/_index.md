@@ -1,5 +1,5 @@
 ---
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 logo: logo.png
 interests: []
 social:
