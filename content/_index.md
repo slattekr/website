@@ -151,7 +151,7 @@ sections:
       filters:
         folders:
           - project
-        authors:
+        author:
           - project
       buttons:
         - name: All
