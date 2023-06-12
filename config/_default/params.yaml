@@ -94,6 +94,9 @@ features:
 
 # Extensions
 
+params:
+  favicon: ./favicon.ico
+
 extensions:
   cms:
     branch: main
