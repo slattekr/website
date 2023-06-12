@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Mary
-favicon: uploads/otterlogo.png
+favicon: /assets/favicon.ico
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -32,7 +32,7 @@ module:
 ############################
 
 assets:
-  favicon: favicon.ico
+  favicon: /assets/favicon.ico
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
