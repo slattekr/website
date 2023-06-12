@@ -153,6 +153,7 @@ sections:
           - project
         author:
           - project
+        link: ""
       buttons:
         - name: All
           tag: '*'
@@ -165,7 +166,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
-      view: showcase
+      view: compact
     
 #  - block: markdown
 #    content:
