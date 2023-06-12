@@ -15,6 +15,10 @@ social:
     link: uploads/maryletey-resume-new.pdf
   - icon: 🦦
     icon_pack: emoji
+  - icon: 🦦
+    icon_pack: emoji
+  - icon: 🦦
+    icon_pack: emoji
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/maryletey/
