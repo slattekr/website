@@ -38,7 +38,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Mary Letey. This work is licensed under {license}'
+    notice: '© {year} Mary Letey'
+  icon: otter
+  icon_pack: fas
 
 # Localization
 
