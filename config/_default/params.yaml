@@ -67,7 +67,7 @@ features:
     gravatar: false
     shape: square
   assets:
-    favicon: /assets/favicon.ico
+    favicon: ./favicon.ico
   comment:
     provider: ''
     disqus:
@@ -95,7 +95,7 @@ features:
 # Extensions
 
 params:
-  favicon: /favicon.ico
+  favicon: favicon.ico
 
 extensions:
   cms:
