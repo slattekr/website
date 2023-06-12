@@ -11,7 +11,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=NGxMzCMAAAAJ&hl=en&oi=ao
   - icon: otter
-    icon_pack: fal
+    icon_pack: fat
     link: uploads/maryletey-resume-new.pdf
   - icon: 🦦
     icon_pack: emoji
@@ -45,7 +45,7 @@ education:
 superuser: true
 status:
   icon: otter
-  icon_pack: fal
+  icon_pack: fas
 role: Master's Student in Theoretical Physics 
 highlight_name: true
 title: Mary Letey
