@@ -67,8 +67,8 @@ features:
     content_dir: content
     branch: main
   avatar:
-    gravatar: true
-    shape: square
+    gravatar: false
+    shape: heart
   comment:
     provider: ''
     disqus:
