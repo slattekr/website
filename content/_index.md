@@ -134,7 +134,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Recent Publications
+      title: Publications
       count: 3
       filters:
         folders:
