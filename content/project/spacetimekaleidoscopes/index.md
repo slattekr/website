@@ -8,6 +8,7 @@ date: 2023-06
 external_link: ""
 title: Spacetime Kaleidoscopes
 tags:
+  - Maths
   - Physics
 links: []
 image: 
