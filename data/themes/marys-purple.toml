@@ -2,21 +2,23 @@
 name = "marys-purple"
 
 # nice lilac D9CEEC
+# purple-grey 9F93CC
+# blueish purple grey 8D9DCF
 
 [dark]
   # Primary
-  primary = "#9F93CC" # highlight text - links, buttons, etc
+  primary = "#8D9DCF" # highlight text - links, buttons, etc
 
   #text_primary = "F605EF"
   
   # Menu
   menu_primary = "#141514" #background color
   menu_text = "#fff" # text in upper lefthand corner - menu navigation text
-  menu_text_active = "#9F93CC" # text in upper lefthand corner 
-  menu_title = "#9F93CC" # i have no idea
+  menu_text_active = "#8D9DCF" # text in upper lefthand corner 
+  menu_title = "#8D9DCF" # i have no idea
 
   # Home sections
-  background = "#141514"
+  background = "#8D9DCF"
   home_section_odd = "#141514"
   home_section_even = "#141514"
 
