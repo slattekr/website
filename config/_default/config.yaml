@@ -32,7 +32,7 @@ module:
 ############################
 
 assets:
-  favicon: /uploads/otterlogo.png
+  favicon: uploads/otterlogo.png
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
