@@ -7,25 +7,26 @@ social:
     link: mailto:maryletey@fas.harvard.edu
     display:
       header: true
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/maryiletey
-    label: Twitter
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.ca/citations?user=NGxMzCMAAAAJ&hl=en&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/mletey
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/maryletey/
   - icon: cv
     icon_pack: ai
     link: uploads/maryletey-resume-new.pdf
 organizations:
   - name: Perimeter Institute
     url: https://perimeterinstitute.ca/people/mary-letey
+social: 
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/maryletey/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/mletey
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/maryiletey
+    label: Twitter
 education:
   courses:
     - course: PhD in Applied Mathematics
