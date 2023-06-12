@@ -10,8 +10,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=NGxMzCMAAAAJ&hl=en&oi=ao
-  - icon: fa-otter
-    icon_pack: fa-light
+  - icon: otter
+    icon_pack: font-awesome-icon
     link: uploads/maryletey-resume-new.pdf
   - icon: 🦦
     icon_pack: emoji
