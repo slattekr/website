@@ -65,8 +65,6 @@ features:
   avatar:
     gravatar: false
     shape: square
-  assets:
-    favicon: ./favicon.ico
   comment:
     provider: ''
     disqus:
@@ -92,9 +90,6 @@ features:
     zoom: 15
 
 # Extensions
-
-params:
-  favicon: favicon.ico
 
 extensions:
   cms:
