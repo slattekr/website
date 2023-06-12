@@ -1,6 +1,15 @@
 ---
 avatar_filename: avatar.jpg
-interests: []
+interests:   
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/maryletey/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/mletey
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/maryiletey
 social:
   - icon: envelope
     icon_pack: fas
@@ -16,17 +25,6 @@ social:
 organizations:
   - name: Perimeter Institute
     url: https://perimeterinstitute.ca/people/mary-letey
-buttons: 
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/maryletey/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/mletey
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/maryiletey
-    label: Twitter
 education:
   courses:
     - course: PhD in Applied Mathematics
