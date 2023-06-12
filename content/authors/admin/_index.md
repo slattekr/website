@@ -37,14 +37,14 @@ education:
     - course: BA in Mathematics
       institution: University of Cambridge, St Johns College
       year: 2018
-superuser: false
+superuser: true
 status:
   icon: 🦦
 role: Master's Student in Theoretical Physics 
 highlight_name: true
 title: Mary Letey
+biography: []
 email: ""
-biography: ""
 ---
 # Hello There! #
 I am currently a Master's student in theoretical physics at [Perimeter Institute](https://perimeterinstitute.ca/people/mary-letey) and an incoming Harvard PhD candidate in applied mathematics and theoretical machine learning at the [Pehlevan Lab](https://pehlevan.seas.harvard.edu).
