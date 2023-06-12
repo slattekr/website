@@ -9,7 +9,7 @@ appearance:
   #theme_day: marys-theme
   theme_night: marys-purple
   font: mary-serif
-  font_size: M
+  font_size: S
 
 # SEO
 
