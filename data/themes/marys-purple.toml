@@ -4,19 +4,19 @@ name = "marys-purple"
 # nice lilac D9CEEC
 # purple-grey 9F93CC
 # blueish purple grey 8D9DCF
-# purple again 938FBB
+# purple again 938FBB darker 8E92BC
 
 [dark]
   # Primary
-  primary = "#8E92BC" # highlight text - links, buttons, etc
+  primary = "#B3C1E5" # highlight text - links, buttons, etc
 
   #text_primary = "F605EF"
   
   # Menu
   menu_primary = "#141514" #background color
   menu_text = "#fff" # text in upper lefthand corner - menu navigation text
-  menu_text_active = "#8E92BC" # text in upper lefthand corner 
-  menu_title = "#8E92BC" # i have no idea
+  menu_text_active = "#B3C1E5" # text in upper lefthand corner 
+  menu_title = "#B3C1E5" # i have no idea
 
   # Home sections
   background = "#343434"
