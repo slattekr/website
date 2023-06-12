@@ -1,6 +1,5 @@
 ---
 avatar_filename: avatar.jpg
-logo: otterlogo.png
 interests: []
 social:
   - icon: envelope
