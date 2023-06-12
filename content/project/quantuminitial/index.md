@@ -1,18 +1,17 @@
 ---
-slides: 
-url_slides: ./quantumspins.pdf
-summary: Extending recent work pioneered by the Perimeter Institute Quantum Intelligence Lab in approximating the groundstate wavefunction of a quantum lattice system using Recurrent Neural Networks. I investigated the affect of error and noisiness of the quantum data on the accuracy of the wavefunction and other physical quantities.
+pdf: 
+url_pdf: "https://arxiv.org/pdf/2211.17248.pdf"
+summary: To generalise results in cosmological inflation to include non-flat universes and non-eternal inflation, a novel comoving curvature perturbation variable is proposed and analysed. Novel initial conditions are proposed by setting the vacuum using the renormalised stress energy tensor.
 authors: 
   - admin
-  - Roger Melko
-  - Schuyler Moss
+  - Zakhar Shumaylov
+  - Will Handley
 url_video: ""
 url_link: ""
-date: 2023-01-31
+date: 2022-07-04
 external_link: ""
-title: Learning Quantum Wavefunctions with RNNs
+title: Quantum Initial Conditions for Inflation with Curvature
 tags:
-  - ML
   - Physics
 links: []
 image: 
