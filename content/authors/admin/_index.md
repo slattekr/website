@@ -45,5 +45,5 @@ highlight_name: true
 title: Mary Letey
 email: ""
 ---
-I am a Master's student in theoretical physics at [Perimeter Institute](https://perimeterinstitute.ca/people/mary-letey) and an incoming Harvard PhD candidate in applied mathematics and theoretical machine learning at the [Pehlevan Lab](https://pehlevan.seas.harvard.edu).
+I am currently a Master's student in theoretical physics at [Perimeter Institute](https://perimeterinstitute.ca/people/mary-letey) and an incoming Harvard PhD candidate in applied mathematics and theoretical machine learning at the [Pehlevan Lab](https://pehlevan.seas.harvard.edu).
 {style="text-align: justify;"}
