@@ -151,6 +151,8 @@ sections:
       filters:
         folders:
           - project
+        authors:
+          - project
       buttons:
         - name: All
           tag: '*'
@@ -163,7 +165,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
-      view: compact
+      view: showcase
     
 #  - block: markdown
 #    content:
