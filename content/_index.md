@@ -153,7 +153,7 @@ sections:
           - project
         author:
           - project
-      buttons:
+      button:
         - name: All
           tag: '*'
         - name: Physics
