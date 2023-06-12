@@ -12,6 +12,7 @@ tags:
 links: []
 image: 
 url_image: ./featured.jpg
+size_image: 50x50
 url_code: ""
 ---
 
