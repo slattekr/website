@@ -43,6 +43,8 @@ status:
 role: Master's Student in Theoretical Physics 
 highlight_name: true
 title: Mary Letey
+first_name: Mary
+last_name: Letey
 bio: []
 email: ""
 ---
