@@ -95,7 +95,7 @@ features:
 # Extensions
 
 params:
-  favicon: ./favicon.ico
+  favicon: /favicon.ico
 
 extensions:
   cms:
