@@ -11,7 +11,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=NGxMzCMAAAAJ&hl=en&oi=ao
   - icon: otter
-    icon_pack: font-awesome-icon
+    icon_pack: fas
     link: uploads/maryletey-resume-new.pdf
   - icon: 🦦
     icon_pack: emoji
