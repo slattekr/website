@@ -2,13 +2,13 @@
 name = "mary-serif"
 
 # Optional Google font URL
-google_fonts = "family=B612+Mono:wght@400;700&family=Orbitron:wght@400;700"
+google_fonts = "family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap"
 
 # Font families
-heading_font = "Orbitron"
-body_font = "B612 Mono"
-nav_font = "B612 Mono"
-mono_font = "B612 Mono"
+heading_font = "Lora"
+body_font = "Lora"
+nav_font = "Lora"
+mono_font = "Cutive Mono"
 
 #color = "#F605EF"
 
