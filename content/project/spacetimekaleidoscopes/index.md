@@ -10,8 +10,6 @@ tags:
   - Physics
 links: []
 image: 
-  size: smart
-url_image: ./kaleido.png
 url_code: ""
 ---
 
