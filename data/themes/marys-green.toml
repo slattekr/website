@@ -20,7 +20,7 @@ name = "marys-green"
   menu_title = "#97BBA2" # i have no idea
 
   # Home sections
-  background = "#97BBA2"
+  background = "#343434"
   home_section_odd = "#141514"
   home_section_even = "#141514"
 
