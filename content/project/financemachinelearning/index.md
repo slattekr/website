@@ -1,16 +1,17 @@
 ---
-pdf: 
-url_pdf: "https://arxiv.org/pdf/2211.17248.pdf"
-summary: To generalise results in cosmological inflation to include non-flat universes and non-eternal inflation, a novel comoving curvature perturbation variable is proposed and analysed. Novel initial conditions are proposed by setting the vacuum using the renormalised stress energy tensor.
+poster: 
+url_poster: ./financernn.pdf
+summary: Examining the extent to which text data (such as financial reports, news articles, and search mentions) can predict the closing stock price of given companies. Text data was analysed using topic modeling to extract relevant features and recurrent neural networks to model time-dependence in the data sets.
 authors: 
   - admin
-  - Zakhar Shumaylov
-  - Will Handley
+  - Morgan Allen
+  - Colton Williams
+  - Aniq Shahid
 url_video: ""
 url_link: ""
-date: 2022-07-04
+date: 2018-04-31
 external_link: ""
-title: Quantum Initial Conditions for Inflation with Curvature
+title: Using Media Data and Machine Learning to Predict Stock Fluctuations
 tags:
   - Physics
 links: []
