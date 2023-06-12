@@ -7,7 +7,7 @@
 
 appearance:
   #theme_day: marys-theme
-  theme_night: marys-purple
+  theme_night: marys-green
   font: mary-serif
   font_color: rgba(246, 5, 239, 1)
   font_size: M
