@@ -16,7 +16,7 @@ name = "marys-purple"
   menu_primary = "#141514" #background color
   menu_text = "#fff" # text in upper lefthand corner - menu navigation text
   menu_text_active = "#B3C1E5" # text in upper lefthand corner 
-  menu_title = "#B3C1E5" # i have no idea
+  menu_title = "#141514" # i have no idea
 
   # Home sections
   background = "#343434"
