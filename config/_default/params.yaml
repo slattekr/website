@@ -14,6 +14,8 @@ appearance:
 
 # SEO
 
+favicon: favicon.ico
+
 marketing:
   favicon: favicon.ico
   seo:
@@ -78,13 +80,6 @@ features:
       repo_id: ''
       category: ''
       category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
   map:
     provider: ''
     api_key: ''
