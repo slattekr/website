@@ -56,5 +56,5 @@ email: ""
 ---
 I am currently a Master's student in theoretical physics at [Perimeter Institute](https://perimeterinstitute.ca/people/mary-letey) and an incoming Harvard PhD candidate in theoretical machine learning at the [Pehlevan Lab](https://pehlevan.seas.harvard.edu) with [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan).
 
-My background and research interests span a wide range of exciting problems in applied mathematics, from early-universe cosmology to machine learning and machine learning for physics. My current research projects focus on classification of discrete symmetry groups in various spaces with [Professor Latham Boyle](https://perimeterinstitute.ca/people/latham-boyle), and learning equivariant representations with [Professor Siamak Ravanbakhsh](https://www.siamak.page).
+My background and research interests span a wide range of exciting problems in applied mathematics, from early-universe cosmology to machine learning and machine learning for physics. My current research projects focus on classification of discrete symmetry groups in relatavistic geometries with [Professor Latham Boyle](https://perimeterinstitute.ca/people/latham-boyle), and machine-learned equivariant representations with [Professor Siamak Ravanbakhsh](https://www.siamak.page).
 {style="text-align: justify;"}
