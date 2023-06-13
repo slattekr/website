@@ -42,6 +42,8 @@ header:
 footer:
   copyright:
     notice: '© {year} Mary Letey'
+  icon: otter
+  icon_pack: fas
 
 # Localization
 
