@@ -35,6 +35,8 @@ module:
 ## ADVANCED
 ############################
 
+favicon: favicon.ico
+icon: favicon.ico
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
