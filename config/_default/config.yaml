@@ -8,8 +8,6 @@ baseURL: 'https://example.com/' # Website URL
 
 theme:
   logo: logo.png
-
-theme:
   favicon: favicon.ico
 
 ############################
