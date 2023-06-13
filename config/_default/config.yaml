@@ -24,6 +24,7 @@ removePathAccents: true
 ############################
 
 module:
+  favicon: favicon.ico
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
