@@ -15,6 +15,7 @@ appearance:
 # SEO
 
 marketing:
+  favicon: favicon.ico
   seo:
     site_type: Person
      #local_business_type: 'Mary Letey'
