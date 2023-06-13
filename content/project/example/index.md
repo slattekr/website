@@ -3,11 +3,11 @@ slides:
 url_pdf: ""
 summary: Investigating tree-level scatting amplitudes for gluons in Yang-Mills. By utilising colour decomposition, we consider partial amplitude formulas in the case of 3 negative-helicity gluons; in particular, we study their singularity structure using projective geometry.
 authors: 
-  - Freddy Cachazo
-  - Dawit Belayneh
-  - Raquel Izquierdo Garcia
+  - [Freddy Cachazo](https://perimeterinstitute.ca/people/freddy-cachazo)
+  - [Dawit Belayneh](https://perimeterinstitute.ca/people/dawit-belayneh)
+  - [Raquel Izquierdo Garcia](https://perimeterinstitute.ca/people/raquel-izquierdo-garcia)
   - admin
-  - James Munday
+  - [James Munday](https://perimeterinstitute.ca/people/james-munday)
 url_video: ""
 date: 2023-02-24
 external_link: ""
