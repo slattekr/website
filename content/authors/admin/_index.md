@@ -37,7 +37,7 @@ education:
   courses:
     - course: PhD in Applied Mathematics
       institution: Harvard University, School of Engineering and Applied Sciences
-      year: 2023 - Present
+      year: Beginning Fall 2023
     - course: MSc in Theoretical Physics
       institution: Perimeter Institute for Theoretical Physics
       year: 2022 - 2023
