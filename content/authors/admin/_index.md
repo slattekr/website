@@ -37,13 +37,13 @@ education:
   courses:
     - course: PhD in Applied Mathematics
       institution: Harvard University, School of Engineering and Applied Sciences
-      year: 2023
+      year: 2023 - Present
     - course: MSc in Theoretical Physics
       institution: Perimeter Institute for Theoretical Physics
-      year: 2022
+      year: 2022 - 2023
     - course: BA in Mathematics
       institution: University of Cambridge, St Johns College
-      year: 2018
+      year: 2018 - 2022
 superuser: true
 status:
   icon: favicon.ico
