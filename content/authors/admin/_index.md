@@ -1,7 +1,6 @@
 ---
 avatar_filename: avatar.jpg
 logo: logo.png
-favicon: favicon.ico
 interests: []
 social:
   - icon: envelope
