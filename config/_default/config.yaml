@@ -8,7 +8,7 @@ baseURL: 'https://example.com/' # Website URL
 
 theme:
   logo: logo.png
-  favicon: favicon.ico
+  #favicon: favicon.ico
 
 ############################
 ## LANGUAGE
@@ -24,7 +24,7 @@ removePathAccents: true
 ############################
 
 module:
-  favicon: favicon.ico
+  #favicon: favicon.ico
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
@@ -35,8 +35,8 @@ module:
 ## ADVANCED
 ############################
 
-favicon: favicon.ico
-icon: favicon.ico
+#favicon: favicon.ico
+#icon: favicon.ico
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
