@@ -10,14 +10,14 @@ appearance:
   theme_night: marys-purple
   font: mary-serif
   font_size: S
-  favicon: favicon.ico
+  #favicon: favicon.ico
 
 # SEO
 
-favicon: favicon.ico
+#favicon: favicon.ico
 
 marketing:
-  favicon: favicon.ico
+  #favicon: favicon.ico
   seo:
     site_type: Person
      #local_business_type: 'Mary Letey'
@@ -58,7 +58,7 @@ features:
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
-  favicon: favicon.ico
+  #favicon: favicon.ico
   math:
     enable: false
   privacy_pack:
