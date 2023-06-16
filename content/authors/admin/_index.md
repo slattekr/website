@@ -44,8 +44,6 @@ education:
       institution: University of Cambridge, St Johns College
       year: 2018 - 2022
 superuser: true
-status:
-  icon: favicon.ico
 role: Master's Student in Theoretical Physics 
 highlight_name: true
 title: Mary Letey
