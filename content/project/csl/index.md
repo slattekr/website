@@ -9,7 +9,7 @@ url_video: ""
 url_link: ""
 date: 2023-07-01
 external_link: ""
-title: Symmetric Spacetime Lattices
+title: (Ongoing) Poincare Symmetric Spacetime Lattices
 tags:
   - Physics
 links: []
