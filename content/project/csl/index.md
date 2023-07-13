@@ -1,19 +1,15 @@
 ---
-pdf: 
-url_pdf: "https://arxiv.org/pdf/2211.17248.pdf"
-slides:
-url_slides: ./cmp.pdf
 summary: |+
-  To generalise results in cosmological inflation to include non-flat universes and non-eternal inflation, a novel comoving curvature perturbation variable is proposed and analysed. Novel initial conditions are proposed by setting the vacuum using the renormalised stress energy tensor.
+  Towards the goal of constructing discretisations of spacetime models that preserve as large of a discrete subgroup of Poincare symmetry as possible, we investigate lattices in maximally-symmetric relativistic geometries and explore their properties and symmetry groups. 
   
-  **Supervisor:** [Dr Will Handley](https://www.willhandley.co.uk).
+  **Supervisors:** [Professor Latham Boyle](https://perimeterinstitute.ca/people/latham-boyle), [Professor Jasper van Wezel](https://www.jvanwezel.com).
   
-  **Colleagues:** [Zakhar Shumaylov](https://zakobian.netlify.app).
+  **Colleagues:** [Lizzy Rieth](https://www.linkedin.com/in/lizzy-rieth-1a74351bb/?originalSubdomain=nl), [Dr Felix Flicker](https://www.felixflicker.com).
 url_video: ""
 url_link: ""
-date: 2022-07-04
+date: 2023-07-01
 external_link: ""
-title: Quantum Initial Conditions for Inflation with Curvature
+title: Symmetric Spacetime Lattices
 tags:
   - Physics
 links: []
