@@ -1,6 +1,6 @@
 ---
 summary: |+
-  Towards the goal of constructing discretisations of spacetime models that preserve as large of a discrete subgroup of Poincare symmetry as possible, we investigate lattices in maximally-symmetric relativistic geometries and explore their properties and symmetry groups. 
+  Towards the goal of constructing discretisations of spacetime models that preserve as large of a discrete subgroup of Poincare symmetry as possible, we investigate lattices in maximally-symmetric relativistic geometries (i.e. Minkowski, de Sitter, and Anti-de Sitter spaces), and explore their properties and symmetry groups. 
   
   **Supervisors:** [Professor Latham Boyle](https://perimeterinstitute.ca/people/latham-boyle), [Professor Jasper van Wezel](https://www.jvanwezel.com).
   
