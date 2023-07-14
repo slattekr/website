@@ -8,12 +8,15 @@ social:
     link: mailto:maryletey@fas.harvard.edu
     display:
       header: true
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.ca/citations?user=NGxMzCMAAAAJ&hl=en&oi=ao
   - icon: cv
     icon_pack: ai
     link: uploads/maryletey-resume-new.pdf
+  - icon: inspire
+    icon_pack: ai
+    link: https://inspirehep.net/authors/2676939
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.ca/citations?user=NGxMzCMAAAAJ&hl=en&oi=ao
   - icon: 🦦
     icon_pack: emoji
   - icon: 🦦
