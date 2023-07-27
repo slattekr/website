@@ -16,7 +16,7 @@ social:
     link: https://inspirehep.net/authors/2676939
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.ca/citations?user=NGxMzCMAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.ca/citations?user=h3poqqgAAAAJ&hl=en&oi=ao
   - icon: 🦦
     icon_pack: emoji
   - icon: 🦦
