@@ -10,7 +10,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/maryletey-resume-new.pdf
+    link: uploads/mletey-phd-uploadtest.pdf
   - icon: inspire
     icon_pack: ai
     link: https://inspirehep.net/authors/2676939
