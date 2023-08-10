@@ -1,6 +1,8 @@
 ---
 pdf: 
 url_pdf: ./PSIEssay2023.pdf
+slides:
+slides_pdf: ./mastersthesisslides.pdf
 summary: |+
   **Master's Thesis.** Towards constructing a mathematical framework to generalise the use of reflection groups in classifying discrete symmetries of Lorentzian spaces. We present a generalisation of the notion of crystallographic symmetry, an important property in the classical study of lattices and reflection groups, and then demonstrate substantial differences between reflection groups in Euclidean spaces vs Lorentzian spaces. 
   
