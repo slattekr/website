@@ -52,7 +52,7 @@ first_name: Mary
 last_name: Letey
 email: ""
 ---
-I am a recent graduate from the MSc Theoretical Physics program at [Perimeter Institute](https://perimeterinstitute.ca/people/mary-letey), and an incoming PhD candidate in theoretical machine learning at [Harvard SEAS](https://seas.harvard.edu/applied-mathematics/graduate-program) with [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan).
+I am a PhD student in theoretical machine learning at [Harvard SEAS](https://seas.harvard.edu/applied-mathematics/graduate-program) with [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan), and a recent graduate from the MSc Theoretical Physics program at [Perimeter Institute](https://perimeterinstitute.ca/people/mary-letey).
 
 My background and research interests span a wide range of exciting problems in applied mathematics, from early-universe cosmology to machine learning and machine learning for physics. My current projects focus on discretisations and discrete symmetry in relativistic geometries with [Professors Latham Boyle](https://perimeterinstitute.ca/people/latham-boyle) and [Jasper van Wezel](https://www.jvanwezel.com), and group-equivariant neural network architectures with [Professor Siamak Ravanbakhsh](https://www.siamak.page) at [Mila](https://mila.quebec/en/core-research/).
 {style="text-align: justify;"}
