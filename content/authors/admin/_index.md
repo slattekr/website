@@ -45,15 +45,22 @@ education:
       institution: University of Cambridge, St Johns College
       year: 2018 - 2022
 superuser: true
+
 role: PhD Student in Applied Mathematics
+
 organizations:
   - name: Harvard University
     url: https://pehlevan.seas.harvard.edu/people/mary-letey
+
 highlight_name: true
+
 title: Mary Letey
+
 first_name: Mary
 last_name: Letey
+
 email: ""
+
 ---
 I am a PhD student in theoretical machine learning at [Harvard SEAS](https://seas.harvard.edu/applied-mathematics/graduate-program) supervised by [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan), and a recent graduate from the MSc Theoretical Physics program at [Perimeter Institute](https://perimeterinstitute.ca/people/mary-letey).
 
