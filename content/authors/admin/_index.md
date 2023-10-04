@@ -32,12 +32,11 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/maryiletey
-#organizations:- name: Perimeter Instituteurl: https://perimeterinstitute.ca/people/mary-letey
 education:
   courses:
     - course: PhD in Applied Mathematics
       institution: Harvard University, School of Engineering and Applied Sciences
-      year: Beginning Fall 2023
+      year: 2023 - Present
     - course: MSc in Theoretical Physics
       institution: Perimeter Institute for Theoretical Physics
       year: 2022 - 2023
@@ -62,7 +61,7 @@ last_name: Letey
 email: ""
 
 ---
-I am a PhD student in theoretical machine learning at [Harvard SEAS](https://seas.harvard.edu/applied-mathematics/graduate-program) supervised by [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan), and a recent graduate from the MSc Theoretical Physics program at [Perimeter Institute](https://perimeterinstitute.ca/people/mary-letey).
+I am a PhD student in theoretical machine learning at [Harvard School of Engineering and Applied Sciences](https://seas.harvard.edu/person/mary-letey) supervised by [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan), and a recent graduate from the MSc Theoretical Physics program at [Perimeter Institute](https://perimeterinstitute.ca/people/mary-letey).
 
 My background and research interests span a wide range of exciting problems in applied mathematics, from early-universe cosmology to machine learning and machine learning for physics. My current projects focus on discretisations and discrete symmetry in relativistic geometries with [Professors Latham Boyle](https://perimeterinstitute.ca/people/latham-boyle) and [Jasper van Wezel](https://www.jvanwezel.com), and group-equivariant neural network architectures with [Professor Siamak Ravanbakhsh](https://www.siamak.page) at [Mila](https://mila.quebec/en/core-research/).
 {style="text-align: justify;"}
