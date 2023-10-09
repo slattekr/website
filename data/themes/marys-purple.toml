@@ -10,14 +10,14 @@ name = "marys-purple"
   
   primary = "#7883BF"
 
-  menu_primary = "#F1F1F4"
+  menu_primary = "#E9E9EE"
   menu_text = "#141514"
   menu_text_active = "#7883BF"
-  menu_title = "#F1F1F4"
+  menu_title = "#E9E9EE"
 
   background = "#C8C8C8"
-  home_section_odd = "#F1F1F4"
-  home_section_even = "#F1F1F4"
+  home_section_odd = "#E9E9EE"
+  home_section_even = "#E9E9EE"
   
 [dark]
   # Primary
