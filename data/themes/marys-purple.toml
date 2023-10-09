@@ -8,11 +8,11 @@ name = "marys-purple"
 
 [light] 
   
-  primary = "#8B92D1"
+  primary = "#7883BF"
 
   menu_primary = "#F1F1F4"
   menu_text = "#141514"
-  menu_text_active = "#8B92D1"
+  menu_text_active = "#7883BF"
   menu_title = "#F1F1F4"
 
   background = "#C8C8C8"
