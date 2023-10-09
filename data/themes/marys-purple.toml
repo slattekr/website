@@ -6,9 +6,22 @@ name = "marys-purple"
 # blueish purple grey 8D9DCF
 # purple again 938FBB darker 8E92BC
 
+[light] 
+  
+  primary = "#8B92D1"
+
+  menu_primary = "#F1F1F4"
+  menu_text = "#141514"
+  menu_text_active = "#8B92D1"
+  menu_title = "#F1F1F4"
+
+  background = "#C8C8C8"
+  home_section_odd = "#F1F1F4"
+  home_section_even = "#F1F1F4"
+  
 [dark]
   # Primary
-  primary = "#B3C1E5" # highlight text - links, buttons, etc
+  primary = "#B3C1E5" # highlight text - links, buttons, etc 8B92D1
 
   #text_primary = "F605EF"
   
@@ -22,10 +35,3 @@ name = "marys-purple"
   background = "#343434"
   home_section_odd = "#141514"
   home_section_even = "#141514"
-
-#[dark]
-  # Primary
-  #primary = "#bbdefb" # highlight text?
-
-  #link = "#bbdefb"
-  #link_hover = "#bbdefb"
