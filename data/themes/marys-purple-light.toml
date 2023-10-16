@@ -24,12 +24,12 @@ name = "marys-purple-light"
   dark_primary = "#B3C1E5" # highlight text - links, buttons, etc 8B92D1
 
   # Menu
-  dark_menu_primary = "#141514" #background color
-  dark_menu_text = "#fff" # text in upper lefthand corner - menu navigation text
-  dark_menu_text_active = "#B3C1E5" # text in upper lefthand corner 
-  dark_menu_title = "#141514" # i have no idea
+  menu_primary = "#141514" #background color
+  menu_text = "#fff" # text in upper lefthand corner - menu navigation text
+  menu_text_active = "#B3C1E5" # text in upper lefthand corner 
+  menu_title = "#141514" # i have no idea
 
   # Home sections
-  dark_background = "#343434"
-  dark_home_section_odd = "#141514"
-  dark_home_section_even = "#141514"
+  background = "#343434"
+  home_section_odd = "#141514"
+  home_section_even = "#141514"
