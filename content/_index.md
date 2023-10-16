@@ -155,7 +155,7 @@ sections:
         author:
           - project
         link: ""
-    buttons:
+      buttons:
         - name: All
           tag: '*'
         - name: Mathematics
