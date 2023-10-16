@@ -21,7 +21,7 @@ name = "marys-purple-light"
 
 [dark] 
   #Primary
-  dark_primary = "#B3C1E5" # highlight text - links, buttons, etc 8B92D1
+  primary = "#B3C1E5" # highlight text - links, buttons, etc 8B92D1
 
   # Menu
   menu_primary = "#141514" #background color
