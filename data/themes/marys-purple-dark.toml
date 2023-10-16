@@ -1,7 +1,7 @@
 # Theme metadata
 name = "marys-purple-dark"
   
-light = false
+[dark]
   #Primary
 primary = "#B3C1E5" # highlight text - links, buttons, etc 8B92D1
 
