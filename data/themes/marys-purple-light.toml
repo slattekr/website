@@ -30,6 +30,6 @@ name = "marys-purple-light"
   menu_title = "#141514" # i have no idea
 
   # Home sections
-  background = "#141514" #"#272730" #used to be 141514
-  home_section_odd = "#292930"
+  background = "#141514" #"#272730" 
+  home_section_odd = "#141514"
   home_section_even = "#141514"
