@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  #theme_day: marys-theme
-  theme_night: marys-purple
+  theme_day: marys-purple-light
+  theme_night: marys-purple-light
   font: mary-serif
   font_size: S
   #favicon: favicon.ico
@@ -22,7 +22,7 @@ marketing:
     site_type: Person
     local_business_type: 'Mary Letey'
     org_name: 'Mary Letey'
-    description: 'Mary Leteys personal website - currently Applied Maths student at Harvard.'
+    description: "Mary Letey's personal website - Applied Maths PhD student at Harvard."
     # description: 'Mary Letey Homepage Physics Mathematics Machine Learning Mary Letey'
      #twitter: 'wowchemy'
      
@@ -34,7 +34,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: false
+    show_day_night: true
     show_search: false
     highlight_active_link: true
 
