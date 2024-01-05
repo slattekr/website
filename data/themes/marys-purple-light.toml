@@ -28,7 +28,7 @@ name = "marys-purple-light"
 
   menu_primary = "#E1E1E9"
   menu_text = "#141514"
-  menu_text_active = "#141514" #"#4B558C"
+  menu_text_active = "#4B558C"
   menu_title = "#E1E1E9"
 
   background = "#C8C8C8"
