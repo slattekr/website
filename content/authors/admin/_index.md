@@ -65,7 +65,7 @@ I am a PhD student in theoretical machine learning at [Harvard School of Enginee
 
 My general background and research focuses span a wide range of exciting problems in applied mathematics, from early-universe cosmology to machine learning and machine learning for physics. I am excited to further explore and develop techniques for understanding how neural network properties arise through complex localised interactions of neurons, as well as the role that symmetry and structure of data plays in such theories.
 
-My current projects focus on theoretical predictions for in-context learning with the Pehlevan Lab, highly-symmetric discretisations of relativistic geometries with [Professors Latham Boyle](https://perimeterinstitute.ca/people/latham-boyle) and [Jasper van Wezel](https://www.jvanwezel.com), and neural networks for PDEs with [Professor Siamak Ravanbakhsh](https://www.siamak.page) at [Mila](https://mila.quebec/en/core-research/).
+Currently I'm working on theoretical predictions for in-context learning with the Pehlevan Lab, highly-symmetric discretisations of relativistic geometries with [Professors Latham Boyle](https://perimeterinstitute.ca/people/latham-boyle) and [Jasper van Wezel](https://www.jvanwezel.com), and neural networks for PDEs with [Professor Siamak Ravanbakhsh](https://www.siamak.page) at [Mila](https://mila.quebec/en/core-research/).
 
-I am always excited to discuss cool math and related topics with people, please reach out if interested!
+I am always happy to discuss cool math and related topics, please reach out if you are interested!
 {style="text-align: justify;"}
