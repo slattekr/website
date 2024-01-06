@@ -9,7 +9,7 @@ summary: |+
   **Colleagues:** Morgan Allen, Colton Williams, Aniq Shahid.
 url_video: ""
 url_link: ""
-date: 2024-02-01
+date: 2023-02-01
 external_link: ""
 title: In-Context Learning in Transformers
 tags:
