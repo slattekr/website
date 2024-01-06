@@ -1,8 +1,7 @@
 ---
-poster: 
-url_poster:
+url_poster: ""
 summary: |+
-  Work underway ... expect more soon!
+  Work underway ... expect more soon.
   
   **Supervisor:** [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan).
   
