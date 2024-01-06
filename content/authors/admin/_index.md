@@ -10,7 +10,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/mletey-phd-uploadtest.pdf
+    link: uploads/mary-letey-jan-2024.pdf
   - icon: inspire
     icon_pack: ai
     link: https://inspirehep.net/authors/2676939
