@@ -1,10 +1,8 @@
 ---
-poster: 
-url_poster: ./financernn.pdf
 summary: |+
   Work underway ... expect more soon!
   
-  ***Supervisor:** [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan).
+  **Supervisor:** [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan).
 url_video: ""
 url_link: ""
 date: 2023-12-01
