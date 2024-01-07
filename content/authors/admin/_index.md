@@ -68,5 +68,5 @@ My general background and research focuses span a wide range of exciting problem
 
 Currently I'm working on theoretical predictions for in-context learning with the Pehlevan Lab, highly-symmetric discretisations of relativistic geometries with [Professors Latham Boyle](https://perimeterinstitute.ca/people/latham-boyle) and [Jasper van Wezel](https://www.jvanwezel.com), and neural networks for PDEs with [Professor Siamak Ravanbakhsh](https://www.siamak.page) at [Mila](https://mila.quebec/en/core-research/).
 
-I am always happy to discuss cool math and related topics, please reach out if you are interested!
+I am always happy to discuss cool maths and related topics, please reach out if you are interested!
 {style="text-align: justify;"}
