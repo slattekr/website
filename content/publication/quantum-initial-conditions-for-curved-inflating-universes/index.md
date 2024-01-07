@@ -17,7 +17,7 @@ author_notes:
   - Equal contribution
 publication: ""
 featured: false
-date: 2022-11-31
+date: 2022-11-31T16:02:38.971Z
 url_slides: ""
 title: Quantum Initial Conditions for Curved Inflating Universes
 tags:
