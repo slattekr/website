@@ -35,13 +35,5 @@ image:
   filename: null
   focal_point: Smart
   preview_only: false
-#url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-#url_dataset: ''
-#url_poster: ''
-#url_project: ''
-#url_slides: ''
-#url_source: ''
-#url_video: ''
-
 doi: https://doi.org/10.48550/arXiv.2211.17248
 ---
