@@ -18,6 +18,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=h3poqqgAAAAJ&hl=en&oi=ao
+    display:
+      header: true
   - icon: 🦦
     icon_pack: emoji
   - icon: 🦦
@@ -33,6 +35,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/maryiletey
+    display:
+      header: true
 education:
   courses:
     - course: PhD in Applied Mathematics
