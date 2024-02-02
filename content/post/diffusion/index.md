@@ -28,7 +28,7 @@ image:
 
 authors:
   - admin
-  - Alvaro Ribot
+  - [Alvaro Ribot](https://alvaro-ribot.github.io/website/)
   - Jonathan Geuter
 
 ---
