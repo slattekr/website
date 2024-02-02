@@ -28,8 +28,14 @@ image:
 
 authors:
   - admin
+  - 吳恩達
+
+
+authors:
+  - admin
   - [Alvaro Ribot](https://alvaro-ribot.github.io/website/)
   - [Jonathan Geuter](https://seas.harvard.edu/person/jonathan-geuter)
+
 ---
 
 ## Main Idea
