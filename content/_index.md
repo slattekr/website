@@ -13,13 +13,26 @@ sections:
       username: admin
 
   - block: collection
+    id: featured
+    content:
+      title: Publications
+      count: 3
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+    
+  - block: collection
     id: posts
     content:
       title: Recent Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 3
       # Filter on criteria
       filters:
         folders:
@@ -39,19 +52,6 @@ sections:
       # Choose a layout view
       view: showcase
       columns: '2'
-
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-      count: 3
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
       
   - block: portfolio
     id: projects
