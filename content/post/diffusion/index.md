@@ -7,10 +7,10 @@ summary: A case study discussing variational inference and its connections to sc
 projects: []
 
 # Date published
-date: '2024-01-02T00:00:00Z'
+date: '2023-01-02T00:00:00Z'
 
 # Date updated
-lastmod: '2024-01-02T00:00:00Z'
+lastmod: '2023-01-02T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
