@@ -10,12 +10,13 @@ light = false
 
 [dark] 
   #Primary
-  primary = "#B3C1E5" # highlight text - links, buttons, etc 8B92D1
+  primary = "#8A8BAC" # highlight text - links, buttons, etc 8B92D1
+  # B3C1E5
 
   # Menu
   menu_primary = "#141514" #background color
   menu_text = "#fff" # text in upper lefthand corner - menu navigation text
-  menu_text_active = "#B3C1E5" # text in upper lefthand corner 
+  menu_text_active = "#8A8BAC" # text in upper lefthand corner 
   menu_title = "#141514" # i have no idea
 
   # Home sections
