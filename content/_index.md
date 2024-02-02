@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Mary
+title: Mary Letey
 date: 2022-10-24
 type: landing
 
@@ -155,15 +155,6 @@ sections:
         author:
           - project
         link: ""
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Mathematics
-          tag: Maths
-        - name: Physics
-          tag: Physics
-        - name: Machine Learning
-          tag: ML
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
