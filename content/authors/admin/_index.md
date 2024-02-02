@@ -32,8 +32,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/mletey
-  - icon: x
-    icon_pack: hb
+  - icon: square-x-twitter
+    icon_pack: fab
     link: https://twitter.com/maryiletey
     display:
       header: true
