@@ -29,6 +29,7 @@ image:
 authors:
   - admin
   - Alvaro Ribot
+  - Jonathan Geuter
 
 ---
 
