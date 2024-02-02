@@ -1,7 +1,7 @@
 ---
-title: Denoising Diffusion and Graphical Models
-subtitle: A case study discussing variational inference and its connections to score approximation.
-summary: A case study discussing variational inference and its connections to score approximation. 
+title: Variational Inference and Diffusion
+subtitle: A physics-vibes case study on variational inference through the lense of denoising diffusion on structured probabilistic models.
+summary: A physics-vibes case study on variational inference through the lense of denoising diffusion on structured probabilistic models.
 
 # Link this post with a project
 projects: []
