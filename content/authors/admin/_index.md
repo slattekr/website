@@ -32,7 +32,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/mletey
-  - icon: square-x-twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/maryiletey
     display:
