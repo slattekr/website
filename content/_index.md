@@ -37,7 +37,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: showcase
       columns: '2'
 
   - block: collection
