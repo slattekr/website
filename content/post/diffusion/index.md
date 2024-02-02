@@ -28,8 +28,7 @@ image:
 
 authors:
   - admin
-  - [Alvaro Ribot](https://alvaro-ribot.github.io/website/)
-  - [Jonathan Geuter](https://seas.harvard.edu/person/jonathan-geuter)
+  - Alvaro Ribot
 
 ---
 
