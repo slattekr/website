@@ -1,7 +1,7 @@
 ---
 title: Variational Inference and Diffusion
-subtitle: A physics-vibes case study on variational inference through the lense of denoising diffusion on structured probabilistic models.
-summary: A physics-vibes case study on variational inference through the lense of denoising diffusion on structured probabilistic models.
+subtitle: A physics-vibes post on variational inference through the lense of denoising diffusion on structured probabilistic models.
+summary: A physics-vibes post on variational inference through the lense of denoising diffusion on structured probabilistic models.
 
 # Link this post with a project
 projects: []
