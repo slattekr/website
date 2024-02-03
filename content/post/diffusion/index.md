@@ -28,23 +28,8 @@ image:
 
 authors:
   - admin
-  - <a href="Alvaro Ribot">https://alvaro-ribot.github.io/website/</a>
-  - Jonathan Geuter
-
 ---
 
-## Main Idea
+Coming soon!
 
-Graphical models allow us to describe distributions implicitly via their conditional indepen-
-dence structure. They are especially useful for high-dimensional distributions. However, sampling
-from them poses many algorithmic challenges.
-
-Using a variational inference perspective, one can try to approximate such distributions with
-generative models, from which one would be able to obtain approximate samples. Here, we give
-a thorough description of how to tackle this problem with diffusion-based generative models.
-In particular, we address an interesting connection between variational inference in graphical
-models and score approximation in diffusion models.
-
-In conclusion, the aim of this report is to exhibit how to leverage Diffusion models to sample
-efficiently from high-dimensional graphical models. Based on the main results from literature, we focus
-on how to apply Denoising Diffusion Probabilistic Models (DDPMs) for Ising models.
+_This post resulted from work and discussions with [Alvaro Ribot](https://alvaro-ribot.github.io/website/) and [Jonathan Geuter](https://seas.harvard.edu/person/jonathan-geuter) during our course with [Prof Sitan Chen](https://sitanchen.com/cs224-f23.html)._
