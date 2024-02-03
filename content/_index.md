@@ -57,6 +57,7 @@ sections:
     id: projects
     content:
       title: Projects
+      count: 5
       filters:
         folders:
           - project
