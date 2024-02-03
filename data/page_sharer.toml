@@ -71,7 +71,7 @@
   title = "Xing"
   icon_pack = "fab"
   icon = "xing"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "tumblr"
