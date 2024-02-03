@@ -68,7 +68,7 @@ email: ""
 ---
 I am a PhD student in theoretical machine learning at [Harvard](https://seas.harvard.edu/person/mary-letey) supervised by [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan).
 
-My general background spans a range of problems in applied maths, from early-universe cosmology to machine learning and ML4Physics. I am excited to develop techniques for understanding how neural network properties arise through complex localised interactions of neurons, as well as the role that symmetry and structure in data plays in such theories.
+My general background spans a range of problems in applied maths, from early-universe cosmology to machine learning and ML4Physics. I'm excited to learn about and develop techniques for understanding how neural network properties emerge through complex localised interactions of neurons, as well as the role that symmetry and structure in data plays in such theories.
 
 Currently I'm working on theoretical predictions for in-context learning with the Pehlevan Lab, highly-symmetric discretisations of relativistic geometries with [Professors Latham Boyle](https://perimeterinstitute.ca/people/latham-boyle) and [Jasper van Wezel](https://www.jvanwezel.com), and neural networks for PDEs with [Professor Siamak Ravanbakhsh](https://www.siamak.page) at [Mila](https://mila.quebec/en/core-research/).
 
