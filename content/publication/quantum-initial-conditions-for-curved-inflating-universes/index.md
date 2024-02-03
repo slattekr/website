@@ -13,8 +13,6 @@ authors:
   - Michael P Hobson
   - Anthony N Lasenby
 author_notes:
-  - Equal contribution
-  - Equal contribution
 publication: ""
 featured: false
 date: 2022-11-30T16:02:38.971Z
