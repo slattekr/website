@@ -57,14 +57,12 @@ sections:
     id: projects
     content:
       title: Projects
-      count: 5
       filters:
         folders:
           - project
         author:
           - project
         link: ""
-        exclude_featured: true
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
