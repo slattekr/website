@@ -57,6 +57,7 @@ sections:
     id: projects
     content:
       title: Projects
+      count: 4
       filters:
         folders:
           - project
@@ -67,4 +68,5 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
       view: showcase
+    
 ---
