@@ -61,6 +61,7 @@ sections:
       filters:
         folders:
           - project
+        exclude_featured: true
         author:
           - project
         link: ""
