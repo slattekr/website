@@ -11,7 +11,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/mary-letey-jan-2024.pdf
+    link: uploads/mary-letey-feb-2024.pdf
   - icon: inspire
     icon_pack: ai
     link: https://inspirehep.net/authors/2676939
