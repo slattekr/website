@@ -12,9 +12,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/mary-letey-feb-2024.pdf
-  - icon: inspire
-    icon_pack: ai
-    link: https://inspirehep.net/authors/2676939
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=h3poqqgAAAAJ&hl=en&oi=ao
