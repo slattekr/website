@@ -11,7 +11,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/mary-letey-feb-2024.pdf
+    link: uploads/march24-cv.pdf
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=h3poqqgAAAAJ&hl=en&oi=ao
