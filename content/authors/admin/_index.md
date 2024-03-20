@@ -11,7 +11,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/march24-cv.pdf
+    link: uploads/march24.pdf
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=h3poqqgAAAAJ&hl=en&oi=ao
