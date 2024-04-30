@@ -12,8 +12,6 @@ url_link: ""
 date: 2023-06-05
 external_link: ""
 title: Reflection Groups in Lorentzian Spaces
-tags:
-  - Maths
 links: []
 image: 
 url_code: ""
