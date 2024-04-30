@@ -12,8 +12,6 @@ url_link: ""
 date: 2022-07-04
 external_link: ""
 title: Quantum Initial Conditions for Inflation with Curvature
-tags:
-  - Physics
 links: []
 image: 
 url_code: ""
