@@ -1,5 +1,4 @@
 ---
-# Leave the homepage title empty to use the site title
 title: Mary Letey
 date: 2022-10-24
 type: landing
@@ -9,7 +8,6 @@ sections:
     id: about
     content:
       title: Hello There!
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
   - block: collection
@@ -66,5 +64,4 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
       view: showcase
-    
 ---
