@@ -1,3 +1,4 @@
+<meta name="robots" content="noindex">
 ---
 # Generate Wowchemy CMS
 type: wowchemycms
