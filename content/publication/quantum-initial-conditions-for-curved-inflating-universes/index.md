@@ -18,20 +18,9 @@ featured: false
 date: 2022-11-30T16:02:38.971Z
 url_slides: ""
 title: Quantum Initial Conditions for Curved Inflating Universes
-tags:
-  - Inflation
-  - k-inflation
-  - Curved-Universe Cosmology
-  - Power Spectra
-  - Quantum Initial Conditions
-  - Change of Variables
-  - Renormalised Stress-Energy Tensor
-  - Cosmology
-projects:
-  - Physics
 image:
   filename: null
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 doi: https://doi.org/10.48550/arXiv.2211.17248
 ---
