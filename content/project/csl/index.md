@@ -10,10 +10,5 @@ url_link: ""
 date: 2023-07-01
 external_link: ""
 title: Poincare Symmetric Spacetime Lattices
-tags:
-  - Physics
-links: []
-image: 
-url_code: ""
 ---
 
