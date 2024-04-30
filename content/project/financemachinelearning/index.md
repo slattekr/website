@@ -12,8 +12,6 @@ url_link: ""
 date: 2018-04-31
 external_link: ""
 title: Using Media Data and Machine Learning to Predict Stock Fluctuations
-tags:
-  - ML
 links: []
 image: 
 url_code: ""
