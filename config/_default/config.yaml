@@ -5,7 +5,7 @@
 
 title: Mary Letey
 baseURL: 'https://example.com/' # Website URL
-
+enableRobotsTXT: true
 #theme:
   #logo: logo.png
   #favicon: favicon.ico
