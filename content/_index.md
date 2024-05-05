@@ -9,6 +9,7 @@ sections:
     content:
       title: Hello There!
       username: admin
+    noindex: true
 
   - block: collection
     id: featured
@@ -22,6 +23,7 @@ sections:
     design:
       columns: '2'
       view: citation
+    noindex: true
     
   - block: collection
     id: posts
@@ -50,6 +52,7 @@ sections:
       # Choose a layout view
       view: showcase
       columns: '2'
+    noindex: true
       
   - block: portfolio
     id: projects
@@ -64,4 +67,5 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
       view: showcase
+    noindex: true
 ---
