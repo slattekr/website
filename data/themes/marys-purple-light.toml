@@ -24,12 +24,12 @@ dark = false
 #   home_section_odd = "#141514"
 #   home_section_even = "#141514"
 
-
+#E1E1E9
 [light]
   
   primary = "#4B558C"
 
-  menu_primary = "#E1E1E9"
+  menu_primary = "#EFEFF1"
   menu_text = "#141514"
   menu_text_active = "#4B558C"
   menu_title = "#E1E1E9"
