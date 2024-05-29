@@ -17,7 +17,7 @@ publication: ""
 featured: false
 date: 2022-11-30T16:02:38.971Z
 url_slides: ""
-title: Quantum Initial Conditions for Curved Inflating Universes
+title: Quantum initial conditions for curved inflating universes
 image:
   filename: null
   focal_point: Smart
