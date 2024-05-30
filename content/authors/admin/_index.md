@@ -4,12 +4,12 @@ bio: Mathematician interested in complex systems, physics, and geometry!
 logo: logo.png
 interests: []
 social:
-- icon: paper-plane
+  - icon: paper-plane
     icon_pack: fas
     link: mailto:maryletey@fas.harvard.edu
     display:
       header: true
-- icon: user-graduate
+  - icon: user-graduate
     icon_pack: fas
     link: https://scholar.google.ca/citations?user=h3poqqgAAAAJ&hl=en&oi=ao
     display:
@@ -17,7 +17,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/mary-letey-may-2024.pdf
-  
   - icon: 🦦
     icon_pack: emoji
   - icon: 🦦
