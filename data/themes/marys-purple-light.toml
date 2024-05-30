@@ -34,6 +34,6 @@ dark = false
   menu_text_active = "#4B558C"
   menu_title = "#EFEFF1"
 
-  background = "#C8C8C8"
+  background = "#EFEFF1"
   home_section_odd = "#EFEFF1"
   home_section_even = "#EFEFF1"
