@@ -14,7 +14,7 @@ author_notes:
 publication: ""
 featured: false
 date: 2024-05-19T16:02:38.971Z
-url_slides: ""
+url_slides: icl_asymptotic_kempner_24.pdf
 title: Asymptotic theory of in-context learning by linear attention
 image:
   filename: null
