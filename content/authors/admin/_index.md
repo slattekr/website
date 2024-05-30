@@ -4,7 +4,7 @@ bio: Mathematician interested in complex systems, physics, and geometry!
 logo: logo.png
 interests: []
 social:
-  - icon: paper-plane
+- icon: paper-plane
     icon_pack: fas
     link: mailto:maryletey@fas.harvard.edu
     display:
