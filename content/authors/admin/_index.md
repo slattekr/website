@@ -5,7 +5,7 @@ logo: logo.png
 interests: []
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: far
     link: mailto:maryletey@fas.harvard.edu
     display:
       header: true
