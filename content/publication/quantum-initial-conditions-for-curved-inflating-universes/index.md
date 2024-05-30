@@ -3,6 +3,7 @@ abstract: We discuss the challenges of motivating, constructing, and quantising 
     We propose a novel curvature perturbation construction which is canonically normalised, in the sense of its equation of motion, unique up to a single scalar parameter. With this construction it becomes possible to set initial conditions invariant under canonical transformations, overcoming known ambiguities in the literature. This corrected quantisation has potentially observational consequences via modifications to the primordial power spectrum at large angular scales, as well as theoretical implications for quantisation procedures in curved cosmologies filled with a scalar field.
 draft: false
 url_pdf: https://arxiv.org/pdf/2211.17248.pdf
+url_slides: cmp.pdf
 publication_types:
   - "3"
 authors:
