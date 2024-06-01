@@ -1,17 +1,17 @@
 ---
 avatar_filename: avatar.jpg
-bio: Mathematician interested in complex systems, physics, and geometry!
+bio: Physics PhD student interested in applying classical machine learning techniques to study quantum systems
 logo: logo.png
 interests: []
 social:
   - icon: paper-plane
     icon_pack: fas
-    link: mailto:maryletey@fas.harvard.edu
+    link: mailto:kasl7419@colorado.edu
     display:
       header: true
   - icon: user-graduate
     icon_pack: fas
-    link: https://scholar.google.ca/citations?user=h3poqqgAAAAJ&hl=en&oi=ao
+    link: 
     display:
       header: true
   - icon: cv
@@ -36,29 +36,29 @@ social:
       header: true
 education:
   courses:
-    - course: PhD in Applied Mathematics
-      institution: Harvard University, School of Engineering and Applied Sciences
-      year: 2023 - Present
+    - course: PhD in Physics
+      institution: University of Colorado Boulder, Department of Physics
+      year: 2024 - Present
     - course: MSc in Theoretical Physics
       institution: Perimeter Institute for Theoretical Physics
       year: 2022 - 2023
-    - course: BA in Mathematics
-      institution: University of Cambridge, St Johns College
-      year: 2018 - 2022
+    - course: BSc in Physics, BA in Mathematics
+      institution: University of Cincinnati, College of Arts and Sciences
+      year: 2017 - 2021
 superuser: true
 
-role: PhD Student in Applied Mathematics
+role: PhD Student in Physics
 
 organizations:
-  - name: Harvard University
+  - name: University of Colorado boulder
     url: https://pehlevan.seas.harvard.edu/people/mary-letey
 
 highlight_name: true
 
-title: Mary Letey
+title: Katherine Slattery
 
-first_name: Mary
-last_name: Letey
+first_name: Katherine
+last_name: Slattery
 
 email: ""
 
