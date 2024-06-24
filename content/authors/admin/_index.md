@@ -1,12 +1,12 @@
 ---
 avatar_filename: avatar.jpg
-bio: Physics PhD student interested in applying classical machine learning techniques to study quantum systems
+bio: I am a physics PhD student at the [University of Colorado Boulder](https://www.colorado.edu/physics/) who is studying theoretical atomic, molecular, and optical physics for applications in quantum devices.
 logo: logo.png
 interests: []
 social:
   - icon: paper-plane
     icon_pack: fas
-    link: mailto:kasl7419@colorado.edu
+    link: mailto:katherineslattery@colorado.edu
     display:
       header: true
   - icon: user-graduate
@@ -16,24 +16,20 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/mary-letey-may-2024.pdf
-  - icon: 🦦
+    link: static/uploads/Katherine_Slattery_CV_December_2023 (3).pdf
+  - icon: 🐈
     icon_pack: emoji
-  - icon: 🦦
+  - icon: 🐈
     icon_pack: emoji
-  - icon: 🦦
+  - icon: 🐈
     icon_pack: emoji
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/maryletey/
+    link: https://www.linkedin.com/in/katherine-s-67504b155/
   - icon: github
     icon_pack: fab
-    link: https://github.com/mletey
-  - icon: square-twitter
-    icon_pack: fab
-    link: https://twitter.com/maryiletey
-    display:
-      header: true
+    link: https://github.com/slattekr
+
 education:
   courses:
     - course: PhD in Physics
@@ -50,7 +46,7 @@ superuser: true
 role: PhD Student in Physics
 
 organizations:
-  - name: University of Colorado boulder
+  - name: University of Colorado Boulder
     url: https://pehlevan.seas.harvard.edu/people/mary-letey
 
 highlight_name: true
@@ -63,9 +59,9 @@ last_name: Slattery
 email: ""
 
 ---
-I'm Mary, currently a PhD student in theoretical machine learning supervised by [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan).
+I'm Katherine, and I am a first year PhD student at CU Boulder who is broadly interested in theoretical quantum information science.
 
-I enjoy learning about and working in a wide range of Applied Maths areas, from early-universe cosmology to machine learning and ML4Physics. I'm excited to develop techniques for understanding how neural network properties emerge through complex interactions of operations, and the role that structure in data plays in such theories. 
+In the past, I've worked on a wide variety of research projects, spanning fields such as, quantum optics, condensed matter physics, quantum metrology, and machine learning. I'm eager to continue my work in these fields during my PhD.
 
-I am always happy to discuss cool maths and related topics, please reach out if you're interested!
+I am eager to talk about many different topics, so don't hesitate to reach out!
 {style="text-align: justify;"}
