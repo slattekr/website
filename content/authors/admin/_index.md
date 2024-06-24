@@ -16,7 +16,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: static/uploads/Katherine_Slattery_CV_December_2023 (3).pdf
+    link: uploads/Katherine_Slattery_CV_December_2023 (3).pdf
   - icon: 🐈
     icon_pack: emoji
   - icon: 🐈
