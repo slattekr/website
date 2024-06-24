@@ -11,7 +11,7 @@ social:
       header: true
   - icon: user-graduate
     icon_pack: fas
-    link: 
+    link: https://scholar.google.com/citations?user=LYMPPOEAAAAJ&hl=en
     display:
       header: true
   - icon: cv
