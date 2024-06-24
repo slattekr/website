@@ -47,7 +47,7 @@ role: PhD Student in Physics
 
 organizations:
   - name: University of Colorado Boulder
-    url: https://pehlevan.seas.harvard.edu/people/mary-letey
+    url: colorado.edu
 
 highlight_name: true
 
