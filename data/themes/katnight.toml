@@ -1,0 +1,20 @@
+# Theme metadata
+name = "Kat_Dark"
+
+[dark]
+  # Primary
+  primary = "#E5DFE6"
+
+  # Menu
+  menu_primary = "#5E3867"
+  menu_text = "#FBFFFD"
+  menu_text_active = "#FFFFFF"
+  menu_title = "#FFFFFF"
+
+  # Home sections
+  home_section_odd = "#18011E"
+  home_section_even = "#30073A"
+
+  link = "#DBCFDD" #"#E5DFE6"
+  link_hover = "#CFDDDD" #"#DFE6E3"
+  link_decoration = "underline"
