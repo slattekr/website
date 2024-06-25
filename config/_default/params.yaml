@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: katday
+  theme_night: katnight
   font: miminal
   font_size: S
   #favicon: favicon.ico
