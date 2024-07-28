@@ -12,8 +12,9 @@ name = "Kat_Dark"
   menu_title = "#FFFFFF"
 
   # Home sections
+  background = "#18011E"
   home_section_odd = "#18011E"
-  home_section_even = "#30073A"
+  home_section_even = "#18011E" #30073A"
 
   link = "#DBCFDD" #"#E5DFE6"
   link_hover = "#CFDDDD" #"#DFE6E3"
